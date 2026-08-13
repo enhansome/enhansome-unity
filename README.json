@@ -355,7 +355,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-24T08:34:44Z",
+            "last_commit": "2026-08-13T04:30:32Z",
             "owner": "insthync",
             "repo": "awesome-unity3d",
             "stars": 2721
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:17:11.146Z",
+    "last_updated": "2026-08-13T09:22:32.556Z",
     "original_repository": "proyecto26/awesome-unity",
     "original_repository_sha": "d16b521b41c8d5005209d43d1c3f1ed7e0e80f1a",
     "enhanced_repository": "enhansome/enhansome-unity",
