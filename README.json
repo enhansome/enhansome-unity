@@ -1,0 +1,424 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Angry Birds style game",
+          "description": "An effort to replicate a level and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-22T20:35:48Z",
+            "owner": "dgkanatsios",
+            "repo": "AngryBirdsStyleGame",
+            "stars": 675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nodulus",
+          "description": "A puzzle game with a clever twist. Based on the mathematical theory behind plank puzzles, consists of a grid of cubes and rods which can be rotated with a swipe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-30T04:37:40Z",
+            "owner": "Hyperparticle",
+            "repo": "nodulus",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Match-3 game",
+          "description": "A match-3 game in Unity (like Candy Crush and Bejeweled).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-22T20:02:01Z",
+            "owner": "dgkanatsios",
+            "repo": "MatchThreeGame",
+            "stars": 617
+          }
+        }
+      ],
+      "title": "Puzzle"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XR-Interaction-Toolkit-Examples",
+          "description": "Various examples to use with the XR Interaction Toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-14T00:02:03Z",
+            "owner": "Unity-Technologies",
+            "repo": "XR-Interaction-Toolkit-Examples",
+            "stars": 1304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVR XR",
+          "description": "OpenVR plugin for Unity's XR API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-29T20:58:15Z",
+            "owner": "ValveSoftware",
+            "repo": "unity-xr-plugin",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Innoactive Creator",
+          "description": "Scalable and maintainable Unity-based VR training.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-04-08T07:58:52Z",
+            "owner": "Innoactive",
+            "repo": "Creator",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Innoactive Creator Examples",
+          "description": "Simple examples showcasing the capabilities of the Innoactive Creator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2021-05-11T10:39:40Z",
+            "owner": "Innoactive",
+            "repo": "Creator-Examples",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Virtual Reality"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Path-Creator",
+          "description": "An intuitive and lightweight editor for quickly creating smooth paths in the editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-02T21:14:52Z",
+            "owner": "SebLague",
+            "repo": "Path-Creator",
+            "stars": 2082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Runtime Unity Editor/Debugging Tools",
+          "description": "In-game inspector and debugging tools for applications made with Unity3D game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-04T01:00:52Z",
+            "owner": "ManlyMarco",
+            "repo": "RuntimeUnityEditor",
+            "stars": 1103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UIWidgets",
+          "description": "A Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-09-07T08:03:53Z",
+            "owner": "Unity-Technologies",
+            "repo": "com.unity.uiwidgets",
+            "stars": 623
+          }
+        }
+      ],
+      "title": "Editor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UniRx",
+          "description": "Reactive Extensions for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-02-16T10:42:13Z",
+            "owner": "neuecc",
+            "repo": "UniRx",
+            "stars": 7330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C-Sharp-Promise",
+          "description": "Promises library for C# for management of asynchronous operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-05-11T14:35:39Z",
+            "owner": "Real-Serious-Games",
+            "repo": "C-Sharp-Promise",
+            "stars": 1242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScriptableObject-Architecture",
+          "description": "Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-12-17T22:10:49Z",
+            "owner": "DanielEverland",
+            "repo": "ScriptableObject-Architecture",
+            "stars": 1056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSM_Command_Patterns",
+          "description": "A basic platform game developed for help to undertanding State pattern and Command pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-08-16T15:44:56Z",
+            "owner": "hansschaa",
+            "repo": "FSM_Command_Patterns",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Scripting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yarn Spinner",
+          "description": "A tool for building interactive dialogue in games!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T02:36:15Z",
+            "owner": "YarnSpinnerTool",
+            "repo": "YarnSpinner",
+            "stars": 2822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChainSafe Gaming",
+          "description": "Unity SDK for building games that interact with blockchains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-04T00:05:34Z",
+            "owner": "ChainSafe",
+            "repo": "web3.unity",
+            "stars": 944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity2D Components",
+          "description": "A varied collection of Unity3D components that I've built for use in the 2D Platformer/RPG I'm currently developing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-23T00:21:04Z",
+            "owner": "cmilr",
+            "repo": "Unity2D-Components",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity Image Cropper",
+          "description": "A uGUI based image cropping solution for Unity 3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-07T10:38:38Z",
+            "owner": "yasirkula",
+            "repo": "UnityImageCropper",
+            "stars": 230
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SOLID",
+          "description": "The S.O.L.I.D Principles in Pictures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-14T02:52:25Z",
+            "owner": "ugonnathelma",
+            "repo": "articles",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ".Net Documentation",
+          "description": "SOLID, DI, N-Tier, Logs, etc with dotnet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-27T16:28:10Z",
+            "owner": "proyecto26",
+            "repo": "dotnet-documentation",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Architecture"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GameDev-Resources",
+          "description": "A wonderful list of Game Development resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-10T19:20:30Z",
+            "owner": "Kavex",
+            "repo": "GameDev-Resources",
+            "stars": 6840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Unity Open Source on GitHub (800+)",
+          "description": "A categorized collection of awesome Unity open source on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-02T09:52:39Z",
+            "owner": "baba-s",
+            "repo": "awesome-unity-open-source-on-github",
+            "stars": 4450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-unity3d",
+          "description": "A categorized collection of awesome opensource unity3d repos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-24T08:34:44Z",
+            "owner": "insthync",
+            "repo": "awesome-unity3d",
+            "stars": 2721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Unity Community",
+          "description": "A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-27T06:27:36Z",
+            "owner": "UnityCommunity",
+            "repo": "AwesomeUnityCommunity",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Unity FREE",
+          "description": "A community driven list of useful Unity Game Engine \"FREE\" packages, libraries and others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-27T06:32:09Z",
+            "owner": "netpyoung",
+            "repo": "awesome-unity-free",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "Other Awesome Lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History 🌟"
+    },
+    {
+      "description": "This project is free and open source. Sponsors help keep it maintained and growing.\nBecome a Sponsor | Sponsorship Program",
+      "items": [],
+      "title": "Sponsors 💜"
+    },
+    {
+      "description": "When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.\nContributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated ❤️.\nYou can learn more about how you can contribute to this project in the contribution guide.",
+      "items": [],
+      "title": "Contribution 🤝"
+    },
+    {
+      "description": "Made with ❤️ by Proyecto 26 - Changing the world with small contributions.\nOne hand can accomplish great things, but many can take you into space and beyond! 🌌\nTogether we do more, together we are more ❤️",
+      "items": [],
+      "title": "Happy coding 💯"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:11.146Z",
+    "original_repository": "proyecto26/awesome-unity",
+    "original_repository_sha": "d16b521b41c8d5005209d43d1c3f1ed7e0e80f1a",
+    "enhanced_repository": "enhansome/enhansome-unity",
+    "enhanced_repository_description": null,
+    "title": "Awesome unity with stars"
+  }
+}
