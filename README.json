@@ -28,7 +28,7 @@
             "last_commit": "2023-03-30T04:37:40Z",
             "owner": "Hyperparticle",
             "repo": "nodulus",
-            "stars": 623
+            "stars": 624
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2024-05-02T21:14:52Z",
             "owner": "SebLague",
             "repo": "Path-Creator",
-            "stars": 2082
+            "stars": 2083
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-04-10T19:20:30Z",
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6854
+            "stars": 6856
           }
         },
         {
@@ -344,7 +344,7 @@
             "last_commit": "2026-02-02T09:52:39Z",
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4450
+            "stars": 4451
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2023-03-27T06:27:36Z",
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
-            "stars": 654
+            "stars": 655
           }
         },
         {
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:42:52.040Z",
+    "last_updated": "2026-08-16T08:44:34.554Z",
     "original_repository": "proyecto26/awesome-unity",
     "original_repository_sha": "d16b521b41c8d5005209d43d1c3f1ed7e0e80f1a",
     "enhanced_repository": "enhansome/enhansome-unity",
