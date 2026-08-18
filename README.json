@@ -28,7 +28,7 @@
             "last_commit": "2023-03-30T04:37:40Z",
             "owner": "Hyperparticle",
             "repo": "nodulus",
-            "stars": 624
+            "stars": 625
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-11-22T20:02:01Z",
             "owner": "dgkanatsios",
             "repo": "MatchThreeGame",
-            "stars": 618
+            "stars": 619
           }
         }
       ],
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-04T01:00:52Z",
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1104
+            "stars": 1105
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-11T02:36:15Z",
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2825
+            "stars": 2826
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-04-10T19:20:30Z",
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6857
+            "stars": 6862
           }
         },
         {
@@ -344,7 +344,7 @@
             "last_commit": "2026-02-02T09:52:39Z",
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4451
+            "stars": 4452
           }
         },
         {
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:57:03.898Z",
+    "last_updated": "2026-08-18T08:50:56.881Z",
     "original_repository": "proyecto26/awesome-unity",
     "original_repository_sha": "d16b521b41c8d5005209d43d1c3f1ed7e0e80f1a",
     "enhanced_repository": "enhansome/enhansome-unity",
