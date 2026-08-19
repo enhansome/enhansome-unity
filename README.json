@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22266016,
             "language": "C#",
             "last_commit": "2024-11-22T20:35:48Z",
             "owner": "dgkanatsios",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58697374,
             "language": "C#",
             "last_commit": "2023-03-30T04:37:40Z",
             "owner": "Hyperparticle",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30982882,
             "language": "C#",
             "last_commit": "2024-11-22T20:02:01Z",
             "owner": "dgkanatsios",
@@ -49,7 +52,7 @@
       "title": "Puzzle"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227207157,
             "language": "C#",
             "last_commit": "2026-02-14T00:02:03Z",
             "owner": "Unity-Technologies",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268947323,
             "language": "C#",
             "last_commit": "2025-10-29T20:58:15Z",
             "owner": "ValveSoftware",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 229287497,
             "language": "C#",
             "last_commit": "2024-04-08T07:58:52Z",
             "owner": "Innoactive",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253478953,
             "language": "ShaderLab",
             "last_commit": "2021-05-11T10:39:40Z",
             "owner": "Innoactive",
@@ -111,7 +118,7 @@
       "title": "Virtual Reality"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167559291,
             "language": "C#",
             "last_commit": "2024-05-02T21:14:52Z",
             "owner": "SebLague",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160832625,
             "language": "C#",
             "last_commit": "2026-08-04T01:00:52Z",
             "owner": "ManlyMarco",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 276520081,
             "language": "C#",
             "last_commit": "2022-09-07T08:03:53Z",
             "owner": "Unity-Technologies",
@@ -159,7 +169,7 @@
       "title": "Editor"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 17941520,
             "language": "C#",
             "last_commit": "2024-02-16T10:42:13Z",
             "owner": "neuecc",
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25947457,
             "language": "C#",
             "last_commit": "2020-05-11T14:35:39Z",
             "owner": "Real-Serious-Games",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 139479451,
             "language": "C#",
             "last_commit": "2023-12-17T22:10:49Z",
             "owner": "DanielEverland",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204055527,
             "language": "C#",
             "last_commit": "2021-08-16T15:44:56Z",
             "owner": "hansschaa",
@@ -221,7 +235,7 @@
       "title": "Scripting"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -230,11 +244,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43618365,
             "language": "C#",
             "last_commit": "2026-08-11T02:36:15Z",
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2826
+            "stars": 2828
           }
         },
         {
@@ -244,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369698813,
             "language": "C#",
             "last_commit": "2025-11-04T00:05:34Z",
             "owner": "ChainSafe",
@@ -258,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30558960,
             "language": "C#",
             "last_commit": "2021-01-23T00:21:04Z",
             "owner": "cmilr",
@@ -272,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132339258,
             "language": "C#",
             "last_commit": "2025-12-07T10:38:38Z",
             "owner": "yasirkula",
@@ -283,7 +301,7 @@
       "title": "Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -292,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272236441,
             "language": null,
             "last_commit": "2020-07-14T02:52:25Z",
             "owner": "ugonnathelma",
@@ -306,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58287934,
             "language": null,
             "last_commit": "2024-10-27T16:28:10Z",
             "owner": "proyecto26",
@@ -317,7 +337,7 @@
       "title": "Architecture"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -326,11 +346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72375372,
             "language": null,
             "last_commit": "2026-04-10T19:20:30Z",
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6862
+            "stars": 6864
           }
         },
         {
@@ -340,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225324670,
             "language": null,
             "last_commit": "2026-02-02T09:52:39Z",
             "owner": "baba-s",
@@ -354,11 +376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78371780,
             "language": null,
             "last_commit": "2026-08-13T04:30:32Z",
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2722
+            "stars": 2724
           }
         },
         {
@@ -368,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185414528,
             "language": null,
             "last_commit": "2023-03-27T06:27:36Z",
             "owner": "UnityCommunity",
@@ -382,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62404961,
             "language": null,
             "last_commit": "2023-03-27T06:32:09Z",
             "owner": "netpyoung",
@@ -391,30 +416,10 @@
         }
       ],
       "title": "Other Awesome Lists"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History 🌟"
-    },
-    {
-      "description": "This project is free and open source. Sponsors help keep it maintained and growing.\nBecome a Sponsor | Sponsorship Program",
-      "items": [],
-      "title": "Sponsors 💜"
-    },
-    {
-      "description": "When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.\nContributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated ❤️.\nYou can learn more about how you can contribute to this project in the contribution guide.",
-      "items": [],
-      "title": "Contribution 🤝"
-    },
-    {
-      "description": "Made with ❤️ by Proyecto 26 - Changing the world with small contributions.\nOne hand can accomplish great things, but many can take you into space and beyond! 🌌\nTogether we do more, together we are more ❤️",
-      "items": [],
-      "title": "Happy coding 💯"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:50:56.881Z",
+    "last_updated": "2026-08-19T08:52:01.814Z",
     "original_repository": "proyecto26/awesome-unity",
     "original_repository_sha": "d16b521b41c8d5005209d43d1c3f1ed7e0e80f1a",
     "enhanced_repository": "enhansome/enhansome-unity",
