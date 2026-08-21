@@ -30,7 +30,7 @@
             "last_commit": "2023-03-30T04:37:40Z",
             "owner": "Hyperparticle",
             "repo": "nodulus",
-            "stars": 625
+            "stars": 627
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-04T01:00:52Z",
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1105
+            "stars": 1106
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-04-10T19:20:30Z",
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6864
+            "stars": 6866
           }
         },
         {
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:53:13.631Z",
+    "last_updated": "2026-08-21T08:54:45.379Z",
     "original_repository": "proyecto26/awesome-unity",
     "original_repository_id": 271095880,
     "original_repository_sha": "d16b521b41c8d5005209d43d1c3f1ed7e0e80f1a",
