@@ -30,7 +30,7 @@
 
 ## Role
 
-* [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) ⭐ 1,370 | 🐛 4 | 🌐 C# | 📅 2021-10-09 - Darkest Dungeon port in Unity. Almost completely identical to the original.
+* [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) ⭐ 1,372 | 🐛 4 | 🌐 C# | 📅 2021-10-09 - Darkest Dungeon port in Unity. Almost completely identical to the original.
 
 ## RPG
 
@@ -78,12 +78,12 @@
 
 ## Controllers
 
-* [2D-Platformer-Hunter](https://github.com/ta-david-yu/2D-Platformer-Hunter) ⭐ 364 | 🐛 4 | 🌐 C# | 📅 2024-04-03 - A 2D Platformer Controller in Unity.
+* [2D-Platformer-Hunter](https://github.com/ta-david-yu/2D-Platformer-Hunter) ⭐ 365 | 🐛 4 | 🌐 C# | 📅 2024-04-03 - A 2D Platformer Controller in Unity.
 
 ## Editor
 
 * [Path-Creator](https://github.com/SebLague/Path-Creator) ⭐ 2,084 | 🐛 89 | 🌐 C# | 📅 2024-05-02 - An intuitive and lightweight editor for quickly creating smooth paths in the editor.
-* [Runtime Unity Editor/Debugging Tools](https://github.com/ManlyMarco/RuntimeUnityEditor) ⭐ 1,106 | 🐛 9 | 🌐 C# | 📅 2026-08-04 - In-game inspector and debugging tools for applications made with Unity3D game engine.
+* [Runtime Unity Editor/Debugging Tools](https://github.com/ManlyMarco/RuntimeUnityEditor) ⭐ 1,107 | 🐛 9 | 🌐 C# | 📅 2026-08-04 - In-game inspector and debugging tools for applications made with Unity3D game engine.
 * [UIWidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets) ⚠️ Archived - A Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
 
 ## Scripting
@@ -111,7 +111,7 @@
 ## Guides
 
 * [Coding in C# in Unity for beginners](https://unity3d.com/learning-c-sharp-in-unity-for-beginners) - The very basics of coding, like variables, functions and classes, and how to use them.
-* [Design Patterns Written in Unity3D](https://github.com/QianMo/Unity-Design-Pattern) ⭐ 4,678 | 🐛 5 | 🌐 C# | 📅 2020-02-06 - All Gang of Four Design Patterns written in Unity C# with many examples.
+* [Design Patterns Written in Unity3D](https://github.com/QianMo/Unity-Design-Pattern) ⭐ 4,680 | 🐛 5 | 🌐 C# | 📅 2020-02-06 - All Gang of Four Design Patterns written in Unity C# with many examples.
 
 ## Tutorials
 
@@ -170,9 +170,9 @@
 
 ## Other Awesome Lists
 
-* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 6,870 | 🐛 11 | 📅 2026-04-10 - A wonderful list of Game Development resources.
+* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 6,872 | 🐛 11 | 📅 2026-04-10 - A wonderful list of Game Development resources.
 * [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,452 | 🐛 12 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
-* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,724 | 🐛 1 | 📅 2026-08-13 - A categorized collection of awesome opensource unity3d repos.
+* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,726 | 🐛 1 | 📅 2026-08-13 - A categorized collection of awesome opensource unity3d repos.
 * [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 654 | 🐛 7 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 * [Awesome Unity FREE](https://github.com/netpyoung/awesome-unity-free) ⭐ 204 | 🐛 3 | 📅 2023-03-27 - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
 
@@ -210,4 +210,4 @@ Together we do more, together we are more ❤️ <img width="150px" src="https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
