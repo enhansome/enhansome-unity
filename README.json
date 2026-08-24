@@ -56,6 +56,132 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Darkest Dungeon",
+          "description": "Darkest Dungeon port in Unity. Almost completely identical to the original.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68723646,
+            "language": "C#",
+            "last_commit": "2021-10-09T08:56:15Z",
+            "owner": "Reinisch",
+            "repo": "Darkest-Dungeon-Unity",
+            "stars": 1372
+          }
+        }
+      ],
+      "title": "Role"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hogwarts",
+          "description": "A Hogwarts (Harry Potter) open sandbox game made in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28742974,
+            "language": "C#",
+            "last_commit": "2023-11-23T06:52:19Z",
+            "owner": "OpenHogwarts",
+            "repo": "hogwarts",
+            "stars": 837
+          }
+        }
+      ],
+      "title": "RPG"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "InfiniteRunner3D",
+          "description": "Creating an infinite 3D runner game in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52826268,
+            "language": "C#",
+            "last_commit": "2018-03-04T17:01:38Z",
+            "owner": "dgkanatsios",
+            "repo": "InfiniteRunner3D",
+            "stars": 360
+          }
+        }
+      ],
+      "title": "Runner"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CubeWorld",
+          "description": "Minecraft like game made in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8893862,
+            "language": "C#",
+            "last_commit": "2023-10-11T20:23:07Z",
+            "owner": "federicodangelo",
+            "repo": "CubeWorld",
+            "stars": 452
+          }
+        }
+      ],
+      "title": "Sandbox"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multiplayer-FPS",
+          "description": "A multiplayer first-person shooter game based on Unity3D. Different types of input devices are supported, including Kinect, Xbox controllers, Leap motion, and VR Glasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48963359,
+            "language": "C#",
+            "last_commit": "2024-12-30T23:02:58Z",
+            "owner": "Armour",
+            "repo": "Multiplayer-FPS",
+            "stars": 1242
+          }
+        }
+      ],
+      "title": "Shooter"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Starcraft Unity3D",
+          "description": "A recreation of the classic Starcraft game by Blizzard, on Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90529475,
+            "language": "C#",
+            "last_commit": "2025-09-12T14:34:05Z",
+            "owner": "coconauts",
+            "repo": "startcraft-unity3d",
+            "stars": 704
+          }
+        }
+      ],
+      "title": "Strategy"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "XR-Interaction-Toolkit-Examples",
           "description": "Various examples to use with the XR Interaction Toolkit.",
           "children": [],
@@ -239,6 +365,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "RestClient",
+          "description": "🦄 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 🎮.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104830183,
+            "language": "C#",
+            "last_commit": "2026-03-22T21:01:06Z",
+            "owner": "proyecto26",
+            "repo": "RestClient",
+            "stars": 1315
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Native Toolkit",
+          "description": "Easily integrate native iOS & Android functionality into Unity projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138218355,
+            "language": "Java",
+            "last_commit": "2026-03-24T09:13:32Z",
+            "owner": "ryanw3bb",
+            "repo": "unity-native-toolkit",
+            "stars": 277
+          }
+        }
+      ],
+      "title": "Platforms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Yarn Spinner",
           "description": "A tool for building interactive dialogue in games!",
           "children": [],
@@ -351,7 +519,7 @@
             "last_commit": "2026-04-10T19:20:30Z",
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6872
+            "stars": 6873
           }
         },
         {
@@ -419,7 +587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:00:39.000Z",
+    "last_updated": "2026-08-24T14:11:09.519Z",
     "original_repository": "proyecto26/awesome-unity",
     "original_repository_id": 271095880,
     "original_repository_sha": "d16b521b41c8d5005209d43d1c3f1ed7e0e80f1a",
