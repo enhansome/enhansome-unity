@@ -66,7 +66,7 @@
             "last_commit": "2021-10-09T08:56:15Z",
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1372
+            "stars": 1373
           }
         }
       ],
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-11T02:36:15Z",
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2828
+            "stars": 2830
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2026-04-10T19:20:30Z",
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6873
+            "stars": 6875
           }
         },
         {
@@ -587,7 +587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:09.519Z",
+    "last_updated": "2026-08-25T06:04:49.994Z",
     "original_repository": "proyecto26/awesome-unity",
     "original_repository_id": 271095880,
     "original_repository_sha": "d16b521b41c8d5005209d43d1c3f1ed7e0e80f1a",
