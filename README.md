@@ -20,7 +20,7 @@
 
 ## Adventure
 
-* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,608 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
+* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,609 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
 
 ## Puzzle
 
@@ -89,7 +89,7 @@
 ## Scripting
 
 * [UniRx](https://github.com/neuecc/UniRx) ⚠️ Archived - Reactive Extensions for Unity.
-* [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) ⭐ 1,241 | 🐛 13 | 🌐 C# | 📅 2020-05-11 - Promises library for C# for management of asynchronous operations.
+* [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) ⭐ 1,242 | 🐛 13 | 🌐 C# | 📅 2020-05-11 - Promises library for C# for management of asynchronous operations.
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) ⚠️ Archived - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy.
 * [FSM\_Command\_Patterns](https://github.com/hansschaa/FSM_Command_Patterns) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2021-08-16 - A basic platform game developed for help to undertanding State pattern and Command pattern.
 
@@ -111,7 +111,7 @@
 ## Guides
 
 * [Coding in C# in Unity for beginners](https://unity3d.com/learning-c-sharp-in-unity-for-beginners) - The very basics of coding, like variables, functions and classes, and how to use them.
-* [Design Patterns Written in Unity3D](https://github.com/QianMo/Unity-Design-Pattern) ⭐ 4,680 | 🐛 5 | 🌐 C# | 📅 2020-02-06 - All Gang of Four Design Patterns written in Unity C# with many examples.
+* [Design Patterns Written in Unity3D](https://github.com/QianMo/Unity-Design-Pattern) ⭐ 4,681 | 🐛 5 | 🌐 C# | 📅 2020-02-06 - All Gang of Four Design Patterns written in Unity C# with many examples.
 
 ## Tutorials
 
@@ -170,8 +170,8 @@
 
 ## Other Awesome Lists
 
-* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 6,878 | 🐛 12 | 📅 2026-04-10 - A wonderful list of Game Development resources.
-* [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,454 | 🐛 13 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
+* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 6,880 | 🐛 13 | 📅 2026-04-10 - A wonderful list of Game Development resources.
+* [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,456 | 🐛 13 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
 * [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,726 | 🐛 1 | 📅 2026-08-25 - A categorized collection of awesome opensource unity3d repos.
 * [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 654 | 🐛 7 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 * [Awesome Unity FREE](https://github.com/netpyoung/awesome-unity-free) ⭐ 204 | 🐛 3 | 📅 2023-03-27 - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
@@ -210,4 +210,4 @@ Together we do more, together we are more ❤️ <img width="150px" src="https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

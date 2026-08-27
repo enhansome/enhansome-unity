@@ -324,7 +324,7 @@
             "last_commit": "2020-05-11T14:35:39Z",
             "owner": "Real-Serious-Games",
             "repo": "C-Sharp-Promise",
-            "stars": 1241
+            "stars": 1242
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2026-04-10T19:20:30Z",
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6878
+            "stars": 6880
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2026-02-02T09:52:39Z",
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4454
+            "stars": 4456
           }
         },
         {
@@ -587,9 +587,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:58:47.981Z",
-    "original_repository": "proyecto26/awesome-unity",
-    "original_repository_id": 271095880,
+    "last_updated": "2026-08-27T12:09:32.681Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 271095880,
+      "language": null,
+      "last_commit": "2026-03-22T21:22:51Z",
+      "owner": "proyecto26",
+      "repo": "awesome-unity",
+      "stars": 1440
+    },
     "original_repository_sha": "d16b521b41c8d5005209d43d1c3f1ed7e0e80f1a",
     "enhanced_repository": "enhansome/enhansome-unity",
     "enhanced_repository_description": null,
