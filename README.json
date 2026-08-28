@@ -16,7 +16,8 @@
             "owner": "dgkanatsios",
             "repo": "AngryBirdsStyleGame",
             "stars": 676
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Hyperparticle",
             "repo": "nodulus",
             "stars": 627
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "dgkanatsios",
             "repo": "MatchThreeGame",
             "stars": 619
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Puzzle"
@@ -66,8 +69,9 @@
             "last_commit": "2021-10-09T08:56:15Z",
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1374
-          }
+            "stars": 1376
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Role"
@@ -88,7 +92,8 @@
             "owner": "OpenHogwarts",
             "repo": "hogwarts",
             "stars": 837
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "RPG"
@@ -109,7 +114,8 @@
             "owner": "dgkanatsios",
             "repo": "InfiniteRunner3D",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Runner"
@@ -129,8 +135,9 @@
             "last_commit": "2023-10-11T20:23:07Z",
             "owner": "federicodangelo",
             "repo": "CubeWorld",
-            "stars": 452
-          }
+            "stars": 453
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Sandbox"
@@ -150,8 +157,9 @@
             "last_commit": "2024-12-30T23:02:58Z",
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1242
-          }
+            "stars": 1243
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Shooter"
@@ -172,7 +180,8 @@
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
             "stars": 704
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Strategy"
@@ -192,8 +201,9 @@
             "last_commit": "2026-02-14T00:02:03Z",
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1304
-          }
+            "stars": 1305
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -208,7 +218,8 @@
             "owner": "ValveSoftware",
             "repo": "unity-xr-plugin",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -223,7 +234,8 @@
             "owner": "Innoactive",
             "repo": "Creator",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -238,7 +250,8 @@
             "owner": "Innoactive",
             "repo": "Creator-Examples",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Virtual Reality"
@@ -259,7 +272,8 @@
             "owner": "SebLague",
             "repo": "Path-Creator",
             "stars": 2085
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -274,7 +288,8 @@
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
             "stars": 1107
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -289,7 +304,8 @@
             "owner": "Unity-Technologies",
             "repo": "com.unity.uiwidgets",
             "stars": 623
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Editor"
@@ -310,7 +326,8 @@
             "owner": "neuecc",
             "repo": "UniRx",
             "stars": 7330
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -325,7 +342,8 @@
             "owner": "Real-Serious-Games",
             "repo": "C-Sharp-Promise",
             "stars": 1242
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -340,7 +358,8 @@
             "owner": "DanielEverland",
             "repo": "ScriptableObject-Architecture",
             "stars": 1056
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -355,7 +374,8 @@
             "owner": "hansschaa",
             "repo": "FSM_Command_Patterns",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Scripting"
@@ -376,7 +396,8 @@
             "owner": "proyecto26",
             "repo": "RestClient",
             "stars": 1315
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Networking"
@@ -397,7 +418,8 @@
             "owner": "ryanw3bb",
             "repo": "unity-native-toolkit",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Platforms"
@@ -418,7 +440,8 @@
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
             "stars": 2832
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -433,7 +456,8 @@
             "owner": "ChainSafe",
             "repo": "web3.unity",
             "stars": 944
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -447,8 +471,9 @@
             "last_commit": "2021-01-23T00:21:04Z",
             "owner": "cmilr",
             "repo": "Unity2D-Components",
-            "stars": 815
-          }
+            "stars": 814
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -463,7 +488,8 @@
             "owner": "yasirkula",
             "repo": "UnityImageCropper",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Utilities"
@@ -484,7 +510,8 @@
             "owner": "ugonnathelma",
             "repo": "articles",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -499,7 +526,8 @@
             "owner": "proyecto26",
             "repo": "dotnet-documentation",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Architecture"
@@ -519,8 +547,9 @@
             "last_commit": "2026-04-10T19:20:30Z",
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6881
-          }
+            "stars": 6882
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -534,8 +563,9 @@
             "last_commit": "2026-02-02T09:52:39Z",
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4456
-          }
+            "stars": 4459
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -549,8 +579,9 @@
             "last_commit": "2026-08-25T19:31:29Z",
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2726
-          }
+            "stars": 2730
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -565,7 +596,8 @@
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
             "stars": 654
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         },
         {
           "node_type": "item",
@@ -580,14 +612,15 @@
             "owner": "netpyoung",
             "repo": "awesome-unity-free",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.773Z"
         }
       ],
       "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:03:00.634Z",
+    "last_updated": "2026-08-28T20:10:50.773Z",
     "original_repository_info": {
       "archived": false,
       "id": 271095880,
