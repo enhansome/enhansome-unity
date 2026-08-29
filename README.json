@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angry Birds style game in Unity",
+            "homepage": "http://dgkanatsios.com/2014/07/28/angry-birds-clone-in-unity-3d-source-code-included-3/",
             "id": 22266016,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-11-22T20:35:48Z",
+            "open_issues": 0,
             "owner": "dgkanatsios",
             "repo": "AngryBirdsStyleGame",
-            "stars": 676
+            "stars": 676,
+            "topics": [
+              "game",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -26,12 +34,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Puzzle game with clever twists (Unity3d)",
+            "homepage": null,
             "id": 58697374,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-03-30T04:37:40Z",
+            "open_issues": 4,
             "owner": "Hyperparticle",
             "repo": "nodulus",
-            "stars": 627
+            "stars": 627,
+            "topics": [
+              "csharp",
+              "game",
+              "puzzle",
+              "unity",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -42,12 +61,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A match-3 game in Unity (like Candy Crush and Bejeweled)",
+            "homepage": "http://dgkanatsios.com/2015/02/25/building-a-match-3-game-in-unity-3/",
             "id": 30982882,
             "language": "C#",
+            "license": null,
             "last_commit": "2024-11-22T20:02:01Z",
+            "open_issues": 2,
             "owner": "dgkanatsios",
             "repo": "MatchThreeGame",
-            "stars": 619
+            "stars": 619,
+            "topics": [
+              "c-sharp",
+              "candy-crush",
+              "game",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -64,12 +93,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Darkest Dungeon port in Unity. Almost completely identical to the original. Platforms: PC/Android.",
+            "homepage": null,
             "id": 68723646,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2021-10-09T08:56:15Z",
+            "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1376
+            "stars": 1376,
+            "topics": [
+              "dungeon",
+              "game",
+              "multiplayer",
+              "pvp",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -86,12 +126,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hogwarts (Harry Potter) open sandbox game made in Unity",
+            "homepage": null,
             "id": 28742974,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-23T06:52:19Z",
+            "open_issues": 17,
             "owner": "OpenHogwarts",
             "repo": "hogwarts",
-            "stars": 837
+            "stars": 837,
+            "topics": [
+              "game",
+              "harry",
+              "harry-potter",
+              "hogwarts",
+              "potter",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -108,12 +160,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creating an infinite 3D runner game in Unity ",
+            "homepage": "http://dgkanatsios.com/2016/03/07/creating-an-infinite-3d-runner-game-in-unity-like-temple-run-subway-surfers-part-1/",
             "id": 52826268,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-03-04T17:01:38Z",
+            "open_issues": 0,
             "owner": "dgkanatsios",
             "repo": "InfiniteRunner3D",
-            "stars": 360
+            "stars": 360,
+            "topics": [
+              "game",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -130,12 +190,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minecraft like game made in Unity",
+            "homepage": null,
             "id": 8893862,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-10-11T20:23:07Z",
+            "open_issues": 0,
             "owner": "federicodangelo",
             "repo": "CubeWorld",
-            "stars": 453
+            "stars": 453,
+            "topics": [
+              "c-sharp",
+              "game",
+              "minecraft",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -152,12 +222,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: A multiplayer first person shooter game based on Unity Game Engine",
+            "homepage": null,
             "id": 48963359,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-12-30T23:02:58Z",
+            "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1243
+            "stars": 1243,
+            "topics": [
+              "fps",
+              "fps-game",
+              "game",
+              "kinect",
+              "leap-motion",
+              "multiplayer",
+              "multiplayer-fps",
+              "unity3d",
+              "vr-glasses",
+              "xbox-controller"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -174,12 +260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A recreation of the classic RTS game Starcraft by Blizzard, on Unity3D",
+            "homepage": null,
             "id": 90529475,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-12T14:34:05Z",
+            "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 704
+            "stars": 704,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -196,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains various examples to use with the XR Interaction Toolkit",
+            "homepage": null,
             "id": 227207157,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-14T00:02:03Z",
+            "open_issues": 89,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1305
+            "stars": 1305,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -212,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenVR plugin for Unity's XR API",
+            "homepage": null,
             "id": 268947323,
             "language": "C#",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-29T20:58:15Z",
+            "open_issues": 72,
             "owner": "ValveSoftware",
             "repo": "unity-xr-plugin",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -228,12 +329,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scalable and maintainable Unity-based VR training",
+            "homepage": "https://www.innoactive.de",
             "id": 229287497,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-08T07:58:52Z",
+            "open_issues": 3,
             "owner": "Innoactive",
             "repo": "Creator",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "unity",
+              "unity3d",
+              "unity3d-plugin"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -244,12 +354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple examples showcasing the capabilities of the Innoactive Creator. Uses Unity XR as interaction framework.",
+            "homepage": "https://www.innoactive.io/",
             "id": 253478953,
             "language": "ShaderLab",
+            "license": null,
             "last_commit": "2021-05-11T10:39:40Z",
+            "open_issues": 0,
             "owner": "Innoactive",
             "repo": "Creator-Examples",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -266,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Path creation asset for Unity game development",
+            "homepage": "https://assetstore.unity.com/packages/tools/utilities/b-zier-path-creator-136082",
             "id": 167559291,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-05-02T21:14:52Z",
+            "open_issues": 89,
             "owner": "SebLague",
             "repo": "Path-Creator",
-            "stars": 2085
+            "stars": 2085,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -282,12 +402,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-game inspector and debugging tools for applications made with Unity3D game engine",
+            "homepage": null,
             "id": 160832625,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-04T01:00:52Z",
+            "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1107
+            "stars": 1107,
+            "topics": [
+              "bepinex",
+              "debugging-tool",
+              "game-development",
+              "modding-tools",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -298,12 +429,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "UIWidgets is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.",
+            "homepage": "https://unity.cn/uiwidgets",
             "id": 276520081,
             "language": "C#",
+            "license": null,
             "last_commit": "2022-09-07T08:03:53Z",
+            "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "com.unity.uiwidgets",
-            "stars": 623
+            "stars": 623,
+            "topics": [
+              "android",
+              "app",
+              "cross-platform",
+              "flutter",
+              "ios",
+              "mobile",
+              "ui",
+              "uiwidgets",
+              "unity",
+              "unity-editor",
+              "unity-engine",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -320,12 +469,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reactive Extensions for Unity",
+            "homepage": null,
             "id": 17941520,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-02-16T10:42:13Z",
+            "open_issues": 245,
             "owner": "neuecc",
             "repo": "UniRx",
-            "stars": 7330
+            "stars": 7330,
+            "topics": [
+              "c-sharp",
+              "linq",
+              "reactive-extensions",
+              "rx",
+              "unirx",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -336,12 +497,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Promises library for C# for management of asynchronous operations.",
+            "homepage": null,
             "id": 25947457,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-05-11T14:35:39Z",
+            "open_issues": 13,
             "owner": "Real-Serious-Games",
             "repo": "C-Sharp-Promise",
-            "stars": 1242
+            "stars": 1242,
+            "topics": [
+              "async-operation",
+              "c-sharp",
+              "game-development",
+              "promise",
+              "unity",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -352,12 +525,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy",
+            "homepage": null,
             "id": 139479451,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-12-17T22:10:49Z",
+            "open_issues": 29,
             "owner": "DanielEverland",
             "repo": "ScriptableObject-Architecture",
-            "stars": 1056
+            "stars": 1056,
+            "topics": [
+              "architecture",
+              "indiedev",
+              "scriptableobject",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -368,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 204055527,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-08-16T15:44:56Z",
+            "open_issues": 0,
             "owner": "hansschaa",
             "repo": "FSM_Command_Patterns",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -390,12 +578,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦄  A Promise based REST and HTTP client for Unity 🎮",
+            "homepage": "https://assetstore.unity.com/packages/slug/102501",
             "id": 104830183,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-03-22T21:01:06Z",
+            "open_issues": 25,
             "owner": "proyecto26",
             "repo": "RestClient",
-            "stars": 1315
+            "stars": 1315,
+            "topics": [
+              "ajax",
+              "async-requests",
+              "http",
+              "http-client",
+              "http-requests",
+              "httpclient",
+              "json",
+              "promises",
+              "request-promise",
+              "requests",
+              "rest",
+              "rest-api",
+              "rest-client",
+              "unity",
+              "unity-asset",
+              "unity-scripts",
+              "unity3d",
+              "unity3d-plugin",
+              "web-request",
+              "web-services"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -412,12 +626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native iOS & Android functionality in Unity",
+            "homepage": null,
             "id": 138218355,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-03-24T09:13:32Z",
+            "open_issues": 18,
             "owner": "ryanw3bb",
             "repo": "unity-native-toolkit",
-            "stars": 277
+            "stars": 277,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -434,12 +653,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.",
+            "homepage": "https://yarnspinner.dev",
             "id": 43618365,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-11T02:36:15Z",
+            "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2832
+            "stars": 2832,
+            "topics": [
+              "dialogue",
+              "dialogue-manager",
+              "dialogue-system",
+              "dialogue-systems",
+              "game",
+              "game-development",
+              "gamedev",
+              "language",
+              "unity",
+              "unity-game",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -450,12 +686,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕹  Unity SDK for building games that interact with blockchains.",
+            "homepage": null,
             "id": 369698813,
             "language": "C#",
+            "license": "LGPL-3.0",
             "last_commit": "2025-11-04T00:05:34Z",
+            "open_issues": 31,
             "owner": "ChainSafe",
             "repo": "web3.unity",
-            "stars": 944
+            "stars": 944,
+            "topics": [
+              "blockchain",
+              "cryptocurrency",
+              "games",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -466,12 +712,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.",
+            "homepage": null,
             "id": 30558960,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-01-23T00:21:04Z",
+            "open_issues": 1,
             "owner": "cmilr",
             "repo": "Unity2D-Components",
-            "stars": 814
+            "stars": 814,
+            "topics": [
+              "c-sharp",
+              "csharp",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "pixel-art",
+              "unity",
+              "unity2d",
+              "unity2d-components",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -482,12 +744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A uGUI based image cropping solution for Unity 3D",
+            "homepage": null,
             "id": 132339258,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-07T10:38:38Z",
+            "open_issues": 2,
             "owner": "yasirkula",
             "repo": "UnityImageCropper",
-            "stars": 230
+            "stars": 230,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -504,12 +771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 272236441,
             "language": null,
+            "license": null,
             "last_commit": "2020-07-14T02:52:25Z",
+            "open_issues": 0,
             "owner": "ugonnathelma",
             "repo": "articles",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -520,12 +792,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SOLID, DI, N-Tier, Logs, etc with dotnet",
+            "homepage": null,
             "id": 58287934,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-10-27T16:28:10Z",
+            "open_issues": 0,
             "owner": "proyecto26",
             "repo": "dotnet-documentation",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "ado",
+              "dependency-inversion",
+              "dotnet",
+              "entity-framework",
+              "persistence-layer",
+              "poco",
+              "solid",
+              "tiers",
+              "transfer-data"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -542,12 +829,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :video_game: :game_die: A wonderful list of Game Development resources.",
+            "homepage": null,
             "id": 72375372,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
+            "open_issues": 13,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6882
+            "stars": 6883,
+            "topics": [
+              "2d",
+              "2d-framework",
+              "2d-game",
+              "2d-game-engine",
+              "2d-game-framework",
+              "3d",
+              "3d-engine",
+              "3d-game",
+              "engine",
+              "game",
+              "game-2d",
+              "game-dev",
+              "game-development",
+              "game-engine",
+              "game-jam",
+              "game-programming",
+              "game-source",
+              "gamedev",
+              "making-2d-games",
+              "video-game"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -558,12 +871,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
+            "homepage": null,
             "id": 225324670,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-02-02T09:52:39Z",
+            "open_issues": 14,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4459
+            "stars": 4462,
+            "topics": [
+              "awesome-list",
+              "unity",
+              "unity-asset",
+              "unity-assets",
+              "unity-editor",
+              "unity-extension",
+              "unity-mobile",
+              "unity-native",
+              "unity-plugin",
+              "unity-sample",
+              "unity-script",
+              "unity-scripts",
+              "unity-shader",
+              "unity-ui",
+              "unity3d",
+              "unity3d-plugin"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -574,12 +909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A categorized collection of awesome opensource unity3d repos",
+            "homepage": null,
             "id": 78371780,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-08-25T19:31:29Z",
+            "open_issues": 2,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2730
+            "stars": 2731,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -590,12 +930,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Unity assets, resources, and more.",
+            "homepage": "https://unitycommunity.github.io/AwesomeUnityCommunity/",
             "id": 185414528,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-03-27T06:27:36Z",
+            "open_issues": 7,
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
-            "stars": 654
+            "stars": 654,
+            "topics": [
+              "chsarp",
+              "hacktoberfest",
+              "plugins",
+              "resources",
+              "scripting",
+              "unity",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         },
@@ -606,12 +959,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community driven list of useful Unity Game Engine \"FREE\" packages, libraries and others.",
+            "homepage": null,
             "id": 62404961,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-03-27T06:32:09Z",
+            "open_issues": 3,
             "owner": "netpyoung",
             "repo": "awesome-unity-free",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "awesome",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
         }
@@ -620,15 +981,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:10:50.773Z",
+    "last_updated": "2026-08-29T04:29:57.336Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Unity games! 🎮",
+      "homepage": null,
       "id": 271095880,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-22T21:22:51Z",
+      "open_issues": 8,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1441
+      "stars": 1441,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "unity",
+        "unity-assets",
+        "unity-editor",
+        "unity-scripts",
+        "unity-tutorial",
+        "unity3d",
+        "unity3d-games",
+        "unity3d-plugin"
+      ]
     },
     "original_repository_sha": "d16b521b41c8d5005209d43d1c3f1ed7e0e80f1a",
     "enhanced_repository": "enhansome/enhansome-unity",
