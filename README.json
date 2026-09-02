@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1379,
+            "stars": 1377,
             "topics": [
               "dungeon",
               "game",
@@ -135,7 +135,7 @@
             "open_issues": 17,
             "owner": "OpenHogwarts",
             "repo": "hogwarts",
-            "stars": 841,
+            "stars": 840,
             "topics": [
               "game",
               "harry",
@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1244,
+            "stars": 1246,
             "topics": [
               "fps",
               "fps-game",
@@ -390,7 +390,7 @@
             "open_issues": 89,
             "owner": "SebLague",
             "repo": "Path-Creator",
-            "stars": 2087,
+            "stars": 2088,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -478,7 +478,7 @@
             "open_issues": 245,
             "owner": "neuecc",
             "repo": "UniRx",
-            "stars": 7329,
+            "stars": 7327,
             "topics": [
               "c-sharp",
               "linq",
@@ -587,7 +587,7 @@
             "open_issues": 25,
             "owner": "proyecto26",
             "repo": "RestClient",
-            "stars": 1315,
+            "stars": 1314,
             "topics": [
               "ajax",
               "async-requests",
@@ -838,7 +838,7 @@
             "open_issues": 14,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6893,
+            "stars": 6896,
             "topics": [
               "2d",
               "2d-framework",
@@ -880,7 +880,7 @@
             "open_issues": 14,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4468,
+            "stars": 4467,
             "topics": [
               "awesome-list",
               "unity",
@@ -914,11 +914,11 @@
             "id": 78371780,
             "language": null,
             "license": "Unlicense",
-            "last_commit": "2026-08-25T19:31:29Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-01T18:56:50Z",
+            "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2731,
+            "stars": 2730,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:27:58.673Z",
+    "last_updated": "2026-09-02T12:44:29.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 8,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1441,
+      "stars": 1442,
       "topics": [
         "awesome-list",
         "awesome-lists",

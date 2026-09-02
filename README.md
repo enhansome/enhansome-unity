@@ -20,7 +20,7 @@
 
 ## Adventure
 
-* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,615 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
+* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,616 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
 
 ## Puzzle
 
@@ -30,11 +30,11 @@
 
 ## Role
 
-* [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) ⭐ 1,379 | 🐛 4 | 🌐 C# | 📅 2021-10-09 - Darkest Dungeon port in Unity. Almost completely identical to the original.
+* [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) ⭐ 1,377 | 🐛 4 | 🌐 C# | 📅 2021-10-09 - Darkest Dungeon port in Unity. Almost completely identical to the original.
 
 ## RPG
 
-* [Hogwarts](https://github.com/OpenHogwarts/hogwarts) ⭐ 841 | 🐛 17 | 🌐 C# | 📅 2023-11-23 - A Hogwarts (Harry Potter) open sandbox game made in Unity.
+* [Hogwarts](https://github.com/OpenHogwarts/hogwarts) ⭐ 840 | 🐛 17 | 🌐 C# | 📅 2023-11-23 - A Hogwarts (Harry Potter) open sandbox game made in Unity.
 
 ## Runner
 
@@ -46,7 +46,7 @@
 
 ## Shooter
 
-* [Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS) ⭐ 1,244 | 🐛 18 | 🌐 C# | 📅 2024-12-30 - A multiplayer first-person shooter game based on Unity3D. Different types of input devices are supported, including Kinect, Xbox controllers, Leap motion, and VR Glasses.
+* [Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS) ⭐ 1,246 | 🐛 18 | 🌐 C# | 📅 2024-12-30 - A multiplayer first-person shooter game based on Unity3D. Different types of input devices are supported, including Kinect, Xbox controllers, Leap motion, and VR Glasses.
 
 ## Strategy
 
@@ -82,7 +82,7 @@
 
 ## Editor
 
-* [Path-Creator](https://github.com/SebLague/Path-Creator) ⭐ 2,087 | 🐛 89 | 🌐 C# | 📅 2024-05-02 - An intuitive and lightweight editor for quickly creating smooth paths in the editor.
+* [Path-Creator](https://github.com/SebLague/Path-Creator) ⭐ 2,088 | 🐛 89 | 🌐 C# | 📅 2024-05-02 - An intuitive and lightweight editor for quickly creating smooth paths in the editor.
 * [Runtime Unity Editor/Debugging Tools](https://github.com/ManlyMarco/RuntimeUnityEditor) ⭐ 1,111 | 🐛 9 | 🌐 C# | 📅 2026-08-04 - In-game inspector and debugging tools for applications made with Unity3D game engine.
 * [UIWidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets) ⚠️ Archived - A Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
 
@@ -95,7 +95,7 @@
 
 ## Networking
 
-* [RestClient](https://github.com/proyecto26/RestClient) ⭐ 1,315 | 🐛 25 | 🌐 C# | 📅 2026-03-22 - 🦄 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 🎮.
+* [RestClient](https://github.com/proyecto26/RestClient) ⭐ 1,314 | 🐛 25 | 🌐 C# | 📅 2026-03-22 - 🦄 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 🎮.
 
 ## Platforms
 
@@ -170,9 +170,9 @@
 
 ## Other Awesome Lists
 
-* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 6,893 | 🐛 14 | 📅 2026-04-10 - A wonderful list of Game Development resources.
-* [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,468 | 🐛 14 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
-* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,731 | 🐛 2 | 📅 2026-08-25 - A categorized collection of awesome opensource unity3d repos.
+* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 6,896 | 🐛 14 | 📅 2026-04-10 - A wonderful list of Game Development resources.
+* [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,467 | 🐛 14 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
+* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,730 | 🐛 1 | 📅 2026-09-01 - A categorized collection of awesome opensource unity3d repos.
 * [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 654 | 🐛 7 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 * [Awesome Unity FREE](https://github.com/netpyoung/awesome-unity-free) ⭐ 205 | 🐛 3 | 📅 2023-03-27 - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
 
@@ -210,4 +210,4 @@ Together we do more, together we are more ❤️ <img width="150px" src="https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
