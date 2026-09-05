@@ -24,9 +24,9 @@
 
 ## Puzzle
 
-* [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame) ⭐ 676 | 🐛 0 | 🌐 C# | 📅 2024-11-22 - An effort to replicate a level and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.
+* [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame) ⭐ 677 | 🐛 0 | 🌐 C# | 📅 2024-11-22 - An effort to replicate a level and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.
 * [Nodulus](https://github.com/Hyperparticle/nodulus) ⭐ 627 | 🐛 4 | 🌐 C# | 📅 2023-03-30 - A puzzle game with a clever twist. Based on the mathematical theory behind plank puzzles, consists of a grid of cubes and rods which can be rotated with a swipe.
-* [Match-3 game](https://github.com/dgkanatsios/MatchThreeGame) ⭐ 619 | 🐛 2 | 🌐 C# | 📅 2024-11-22 - A match-3 game in Unity (like Candy Crush and Bejeweled).
+* [Match-3 game](https://github.com/dgkanatsios/MatchThreeGame) ⭐ 620 | 🐛 2 | 🌐 C# | 📅 2024-11-22 - A match-3 game in Unity (like Candy Crush and Bejeweled).
 
 ## Role
 
@@ -38,7 +38,7 @@
 
 ## Runner
 
-* [InfiniteRunner3D](https://github.com/dgkanatsios/InfiniteRunner3D) ⭐ 359 | 🐛 0 | 🌐 C# | 📅 2018-03-04 - Creating an infinite 3D runner game in Unity.
+* [InfiniteRunner3D](https://github.com/dgkanatsios/InfiniteRunner3D) ⭐ 360 | 🐛 0 | 🌐 C# | 📅 2018-03-04 - Creating an infinite 3D runner game in Unity.
 
 ## Sandbox
 
@@ -46,7 +46,7 @@
 
 ## Shooter
 
-* [Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS) ⭐ 1,248 | 🐛 18 | 🌐 C# | 📅 2024-12-30 - A multiplayer first-person shooter game based on Unity3D. Different types of input devices are supported, including Kinect, Xbox controllers, Leap motion, and VR Glasses.
+* [Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS) ⭐ 1,247 | 🐛 18 | 🌐 C# | 📅 2024-12-30 - A multiplayer first-person shooter game based on Unity3D. Different types of input devices are supported, including Kinect, Xbox controllers, Leap motion, and VR Glasses.
 
 ## Strategy
 
@@ -83,7 +83,7 @@
 ## Editor
 
 * [Path-Creator](https://github.com/SebLague/Path-Creator) ⭐ 2,090 | 🐛 89 | 🌐 C# | 📅 2024-05-02 - An intuitive and lightweight editor for quickly creating smooth paths in the editor.
-* [Runtime Unity Editor/Debugging Tools](https://github.com/ManlyMarco/RuntimeUnityEditor) ⭐ 1,111 | 🐛 10 | 🌐 C# | 📅 2026-08-04 - In-game inspector and debugging tools for applications made with Unity3D game engine.
+* [Runtime Unity Editor/Debugging Tools](https://github.com/ManlyMarco/RuntimeUnityEditor) ⭐ 1,111 | 🐛 9 | 🌐 C# | 📅 2026-09-04 - In-game inspector and debugging tools for applications made with Unity3D game engine.
 * [UIWidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets) ⚠️ Archived - A Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
 
 ## Scripting
@@ -172,8 +172,8 @@
 
 * [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 6,898 | 🐛 14 | 📅 2026-04-10 - A wonderful list of Game Development resources.
 * [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,472 | 🐛 14 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
-* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,732 | 🐛 1 | 📅 2026-09-01 - A categorized collection of awesome opensource unity3d repos.
-* [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 655 | 🐛 7 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,733 | 🐛 1 | 📅 2026-09-01 - A categorized collection of awesome opensource unity3d repos.
+* [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 655 | 🐛 6 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 * [Awesome Unity FREE](https://github.com/netpyoung/awesome-unity-free) ⭐ 205 | 🐛 3 | 📅 2023-03-27 - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
 
 ## Concepts
@@ -210,4 +210,4 @@ Together we do more, together we are more ❤️ <img width="150px" src="https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

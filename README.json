@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dgkanatsios",
             "repo": "AngryBirdsStyleGame",
-            "stars": 676,
+            "stars": 677,
             "topics": [
               "game",
               "unity"
@@ -70,7 +70,7 @@
             "open_issues": 2,
             "owner": "dgkanatsios",
             "repo": "MatchThreeGame",
-            "stars": 619,
+            "stars": 620,
             "topics": [
               "c-sharp",
               "candy-crush",
@@ -169,7 +169,7 @@
             "open_issues": 0,
             "owner": "dgkanatsios",
             "repo": "InfiniteRunner3D",
-            "stars": 359,
+            "stars": 360,
             "topics": [
               "game",
               "unity"
@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1248,
+            "stars": 1247,
             "topics": [
               "fps",
               "fps-game",
@@ -407,8 +407,8 @@
             "id": 160832625,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-04T01:00:52Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-04T19:03:37Z",
+            "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
             "stars": 1111,
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2732,
+            "stars": 2733,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -936,7 +936,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2023-03-27T06:27:36Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
             "stars": 655,
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:41:41.694Z",
+    "last_updated": "2026-09-05T11:48:52.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -990,10 +990,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-22T21:22:51Z",
-      "open_issues": 8,
+      "open_issues": 7,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1442,
+      "stars": 1443,
       "topics": [
         "awesome-list",
         "awesome-lists",
