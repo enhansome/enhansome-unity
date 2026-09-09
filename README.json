@@ -70,7 +70,7 @@
             "open_issues": 2,
             "owner": "dgkanatsios",
             "repo": "MatchThreeGame",
-            "stars": 621,
+            "stars": 622,
             "topics": [
               "c-sharp",
               "candy-crush",
@@ -269,7 +269,7 @@
             "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 706,
+            "stars": 707,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1112,
+            "stars": 1113,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -506,7 +506,7 @@
             "open_issues": 13,
             "owner": "Real-Serious-Games",
             "repo": "C-Sharp-Promise",
-            "stars": 1242,
+            "stars": 1241,
             "topics": [
               "async-operation",
               "c-sharp",
@@ -721,7 +721,7 @@
             "open_issues": 1,
             "owner": "cmilr",
             "repo": "Unity2D-Components",
-            "stars": 814,
+            "stars": 815,
             "topics": [
               "c-sharp",
               "csharp",
@@ -838,7 +838,7 @@
             "open_issues": 14,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6904,
+            "stars": 6905,
             "topics": [
               "2d",
               "2d-framework",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:50:33.789Z",
+    "last_updated": "2026-09-09T12:56:23.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
