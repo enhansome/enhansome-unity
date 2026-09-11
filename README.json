@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dgkanatsios",
             "repo": "AngryBirdsStyleGame",
-            "stars": 678,
+            "stars": 679,
             "topics": [
               "game",
               "unity"
@@ -43,7 +43,7 @@
             "open_issues": 4,
             "owner": "Hyperparticle",
             "repo": "nodulus",
-            "stars": 628,
+            "stars": 629,
             "topics": [
               "csharp",
               "game",
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1114,
+            "stars": 1115,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -478,7 +478,7 @@
             "open_issues": 245,
             "owner": "neuecc",
             "repo": "UniRx",
-            "stars": 7326,
+            "stars": 7325,
             "topics": [
               "c-sharp",
               "linq",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2837,
+            "stars": 2839,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -721,7 +721,7 @@
             "open_issues": 1,
             "owner": "cmilr",
             "repo": "Unity2D-Components",
-            "stars": 815,
+            "stars": 816,
             "topics": [
               "c-sharp",
               "csharp",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:53:22.150Z",
+    "last_updated": "2026-09-11T12:47:39.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
