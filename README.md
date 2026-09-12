@@ -30,7 +30,7 @@
 
 ## Role
 
-* [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) ⭐ 1,378 | 🐛 4 | 🌐 C# | 📅 2021-10-09 - Darkest Dungeon port in Unity. Almost completely identical to the original.
+* [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) ⭐ 1,379 | 🐛 4 | 🌐 C# | 📅 2021-10-09 - Darkest Dungeon port in Unity. Almost completely identical to the original.
 
 ## RPG
 
@@ -50,7 +50,7 @@
 
 ## Strategy
 
-* [Starcraft Unity3D](https://github.com/coconauts/startcraft-unity3d) ⭐ 707 | 🐛 3 | 🌐 C# | 📅 2025-09-12 - A recreation of the classic Starcraft game by Blizzard, on Unity3D.
+* [Starcraft Unity3D](https://github.com/coconauts/startcraft-unity3d) ⭐ 708 | 🐛 3 | 🌐 C# | 📅 2025-09-12 - A recreation of the classic Starcraft game by Blizzard, on Unity3D.
 
 ***
 
@@ -103,9 +103,9 @@
 
 ## Utilities
 
-* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,839 | 🐛 3 | 🌐 C# | 📅 2026-09-07 - A tool for building interactive dialogue in games!
+* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,841 | 🐛 3 | 🌐 C# | 📅 2026-09-07 - A tool for building interactive dialogue in games!
 * [ChainSafe Gaming](https://github.com/ChainSafe/web3.unity) ⭐ 944 | 🐛 31 | 🌐 C# | 📅 2025-11-04 - Unity SDK for building games that interact with blockchains.
-* [Unity2D Components](https://github.com/cmilr/Unity2D-Components) ⭐ 816 | 🐛 1 | 🌐 C# | 📅 2021-01-23 - A varied collection of Unity3D components that I've built for use in the 2D Platformer/RPG I'm currently developing.
+* [Unity2D Components](https://github.com/cmilr/Unity2D-Components) ⭐ 817 | 🐛 1 | 🌐 C# | 📅 2021-01-23 - A varied collection of Unity3D components that I've built for use in the 2D Platformer/RPG I'm currently developing.
 * [Unity Image Cropper](https://github.com/yasirkula/UnityImageCropper) ⭐ 230 | 🐛 2 | 🌐 C# | 📅 2025-12-07 - A uGUI based image cropping solution for Unity 3D.
 
 ## Guides
@@ -210,4 +210,4 @@ Together we do more, together we are more ❤️ <img width="150px" src="https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

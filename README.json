@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1378,
+            "stars": 1379,
             "topics": [
               "dungeon",
               "game",
@@ -269,7 +269,7 @@
             "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 707,
+            "stars": 708,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2839,
+            "stars": 2841,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -721,7 +721,7 @@
             "open_issues": 1,
             "owner": "cmilr",
             "repo": "Unity2D-Components",
-            "stars": 816,
+            "stars": 817,
             "topics": [
               "c-sharp",
               "csharp",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:47:39.779Z",
+    "last_updated": "2026-09-12T12:08:16.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
