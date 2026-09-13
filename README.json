@@ -269,7 +269,7 @@
             "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 708,
+            "stars": 707,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -317,7 +317,7 @@
             "open_issues": 72,
             "owner": "ValveSoftware",
             "repo": "unity-xr-plugin",
-            "stars": 333,
+            "stars": 334,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2841,
+            "stars": 2839,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6907,
+            "stars": 6909,
             "topics": [
               "2d",
               "2d-framework",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:08:16.492Z",
+    "last_updated": "2026-09-13T13:17:30.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",

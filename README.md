@@ -20,7 +20,7 @@
 
 ## Adventure
 
-* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,622 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
+* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,624 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
 
 ## Puzzle
 
@@ -50,7 +50,7 @@
 
 ## Strategy
 
-* [Starcraft Unity3D](https://github.com/coconauts/startcraft-unity3d) ⭐ 708 | 🐛 3 | 🌐 C# | 📅 2025-09-12 - A recreation of the classic Starcraft game by Blizzard, on Unity3D.
+* [Starcraft Unity3D](https://github.com/coconauts/startcraft-unity3d) ⭐ 707 | 🐛 3 | 🌐 C# | 📅 2025-09-12 - A recreation of the classic Starcraft game by Blizzard, on Unity3D.
 
 ***
 
@@ -72,7 +72,7 @@
 ## Virtual Reality
 
 * [XR-Interaction-Toolkit-Examples](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples) ⭐ 1,307 | 🐛 89 | 🌐 C# | 📅 2026-02-14 - Various examples to use with the XR Interaction Toolkit.
-* [OpenVR XR](https://github.com/ValveSoftware/unity-xr-plugin) ⭐ 333 | 🐛 72 | 🌐 C# | 📅 2025-10-29 - OpenVR plugin for Unity's XR API.
+* [OpenVR XR](https://github.com/ValveSoftware/unity-xr-plugin) ⭐ 334 | 🐛 72 | 🌐 C# | 📅 2025-10-29 - OpenVR plugin for Unity's XR API.
 * [Innoactive Creator](https://github.com/Innoactive/Creator) ⚠️ Archived - Scalable and maintainable Unity-based VR training.
 * [Innoactive Creator Examples](https://github.com/Innoactive/Creator-Examples) ⭐ 0 | 🐛 0 | 🌐 ShaderLab | 📅 2021-05-11 - Simple examples showcasing the capabilities of the Innoactive Creator.
 
@@ -103,7 +103,7 @@
 
 ## Utilities
 
-* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,841 | 🐛 3 | 🌐 C# | 📅 2026-09-07 - A tool for building interactive dialogue in games!
+* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,839 | 🐛 3 | 🌐 C# | 📅 2026-09-07 - A tool for building interactive dialogue in games!
 * [ChainSafe Gaming](https://github.com/ChainSafe/web3.unity) ⭐ 944 | 🐛 31 | 🌐 C# | 📅 2025-11-04 - Unity SDK for building games that interact with blockchains.
 * [Unity2D Components](https://github.com/cmilr/Unity2D-Components) ⭐ 817 | 🐛 1 | 🌐 C# | 📅 2021-01-23 - A varied collection of Unity3D components that I've built for use in the 2D Platformer/RPG I'm currently developing.
 * [Unity Image Cropper](https://github.com/yasirkula/UnityImageCropper) ⭐ 230 | 🐛 2 | 🌐 C# | 📅 2025-12-07 - A uGUI based image cropping solution for Unity 3D.
@@ -170,7 +170,7 @@
 
 ## Other Awesome Lists
 
-* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 6,907 | 🐛 14 | 📅 2026-04-10 - A wonderful list of Game Development resources.
+* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 6,909 | 🐛 15 | 📅 2026-04-10 - A wonderful list of Game Development resources.
 * [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,475 | 🐛 14 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
 * [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,732 | 🐛 1 | 📅 2026-09-01 - A categorized collection of awesome opensource unity3d repos.
 * [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 655 | 🐛 6 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
@@ -210,4 +210,4 @@ Together we do more, together we are more ❤️ <img width="150px" src="https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
