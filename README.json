@@ -269,7 +269,7 @@
             "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 707,
+            "stars": 708,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1116,
+            "stars": 1117,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -658,7 +658,7 @@
             "id": 43618365,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-15T03:29:05Z",
+            "last_commit": "2026-09-16T10:08:48Z",
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
@@ -838,7 +838,7 @@
             "open_issues": 17,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6969,
+            "stars": 6974,
             "topics": [
               "2d",
               "2d-framework",
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2732,
+            "stars": 2733,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:29:21.885Z",
+    "last_updated": "2026-09-16T13:28:00.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
