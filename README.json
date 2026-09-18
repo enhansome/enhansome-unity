@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1250,
+            "stars": 1249,
             "topics": [
               "fps",
               "fps-game",
@@ -296,7 +296,7 @@
             "open_issues": 89,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1307,
+            "stars": 1309,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -390,7 +390,7 @@
             "open_issues": 89,
             "owner": "SebLague",
             "repo": "Path-Creator",
-            "stars": 2092,
+            "stars": 2094,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1115,
+            "stars": 1116,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -506,7 +506,7 @@
             "open_issues": 13,
             "owner": "Real-Serious-Games",
             "repo": "C-Sharp-Promise",
-            "stars": 1240,
+            "stars": 1239,
             "topics": [
               "async-operation",
               "c-sharp",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2839,
+            "stars": 2840,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -838,7 +838,7 @@
             "open_issues": 17,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6981,
+            "stars": 6985,
             "topics": [
               "2d",
               "2d-framework",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T13:23:37.469Z",
+    "last_updated": "2026-09-18T12:56:11.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 7,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1446,
+      "stars": 1447,
       "topics": [
         "awesome-list",
         "awesome-lists",
