@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dgkanatsios",
             "repo": "AngryBirdsStyleGame",
-            "stars": 679,
+            "stars": 678,
             "topics": [
               "game",
               "unity"
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2840,
+            "stars": 2841,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -838,7 +838,7 @@
             "open_issues": 17,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6985,
+            "stars": 6988,
             "topics": [
               "2d",
               "2d-framework",
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2733,
+            "stars": 2734,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -939,7 +939,7 @@
             "open_issues": 6,
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
-            "stars": 655,
+            "stars": 656,
             "topics": [
               "chsarp",
               "hacktoberfest",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:56:11.664Z",
+    "last_updated": "2026-09-19T12:27:49.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",

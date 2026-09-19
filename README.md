@@ -20,11 +20,11 @@
 
 ## Adventure
 
-* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,626 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
+* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,625 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
 
 ## Puzzle
 
-* [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame) ⭐ 679 | 🐛 0 | 🌐 C# | 📅 2024-11-22 - An effort to replicate a level and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.
+* [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame) ⭐ 678 | 🐛 0 | 🌐 C# | 📅 2024-11-22 - An effort to replicate a level and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.
 * [Nodulus](https://github.com/Hyperparticle/nodulus) ⭐ 630 | 🐛 4 | 🌐 C# | 📅 2023-03-30 - A puzzle game with a clever twist. Based on the mathematical theory behind plank puzzles, consists of a grid of cubes and rods which can be rotated with a swipe.
 * [Match-3 game](https://github.com/dgkanatsios/MatchThreeGame) ⭐ 623 | 🐛 2 | 🌐 C# | 📅 2024-11-22 - A match-3 game in Unity (like Candy Crush and Bejeweled).
 
@@ -103,7 +103,7 @@
 
 ## Utilities
 
-* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,840 | 🐛 3 | 🌐 C# | 📅 2026-09-16 - A tool for building interactive dialogue in games!
+* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,841 | 🐛 3 | 🌐 C# | 📅 2026-09-16 - A tool for building interactive dialogue in games!
 * [ChainSafe Gaming](https://github.com/ChainSafe/web3.unity) ⭐ 944 | 🐛 31 | 🌐 C# | 📅 2025-11-04 - Unity SDK for building games that interact with blockchains.
 * [Unity2D Components](https://github.com/cmilr/Unity2D-Components) ⭐ 819 | 🐛 1 | 🌐 C# | 📅 2021-01-23 - A varied collection of Unity3D components that I've built for use in the 2D Platformer/RPG I'm currently developing.
 * [Unity Image Cropper](https://github.com/yasirkula/UnityImageCropper) ⭐ 230 | 🐛 2 | 🌐 C# | 📅 2025-12-07 - A uGUI based image cropping solution for Unity 3D.
@@ -170,10 +170,10 @@
 
 ## Other Awesome Lists
 
-* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 6,985 | 🐛 17 | 📅 2026-04-10 - A wonderful list of Game Development resources.
+* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 6,988 | 🐛 17 | 📅 2026-04-10 - A wonderful list of Game Development resources.
 * [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,476 | 🐛 14 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
-* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,733 | 🐛 1 | 📅 2026-09-01 - A categorized collection of awesome opensource unity3d repos.
-* [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 655 | 🐛 6 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,734 | 🐛 1 | 📅 2026-09-01 - A categorized collection of awesome opensource unity3d repos.
+* [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 656 | 🐛 6 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 * [Awesome Unity FREE](https://github.com/netpyoung/awesome-unity-free) ⭐ 205 | 🐛 3 | 📅 2023-03-27 - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
 
 ## Concepts
@@ -210,4 +210,4 @@ Together we do more, together we are more ❤️ <img width="150px" src="https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
