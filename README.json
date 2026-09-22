@@ -390,7 +390,7 @@
             "open_issues": 89,
             "owner": "SebLague",
             "repo": "Path-Creator",
-            "stars": 2094,
+            "stars": 2095,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -838,7 +838,7 @@
             "open_issues": 17,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6992,
+            "stars": 6993,
             "topics": [
               "2d",
               "2d-framework",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:04:13.580Z",
+    "last_updated": "2026-09-22T13:22:45.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 7,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1447,
+      "stars": 1446,
       "topics": [
         "awesome-list",
         "awesome-lists",
