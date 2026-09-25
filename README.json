@@ -70,7 +70,7 @@
             "open_issues": 2,
             "owner": "dgkanatsios",
             "repo": "MatchThreeGame",
-            "stars": 623,
+            "stars": 624,
             "topics": [
               "c-sharp",
               "candy-crush",
@@ -135,7 +135,7 @@
             "open_issues": 17,
             "owner": "OpenHogwarts",
             "repo": "hogwarts",
-            "stars": 840,
+            "stars": 841,
             "topics": [
               "game",
               "harry",
@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1250,
+            "stars": 1251,
             "topics": [
               "fps",
               "fps-game",
@@ -269,7 +269,7 @@
             "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 710,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -296,7 +296,7 @@
             "open_issues": 89,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1309,
+            "stars": 1310,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1117,
+            "stars": 1119,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2843,
+            "stars": 2845,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -838,7 +838,7 @@
             "open_issues": 17,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6999,
+            "stars": 7003,
             "topics": [
               "2d",
               "2d-framework",
@@ -880,7 +880,7 @@
             "open_issues": 14,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4478,
+            "stars": 4480,
             "topics": [
               "awesome-list",
               "unity",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T13:30:53.777Z",
+    "last_updated": "2026-09-25T13:41:36.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
