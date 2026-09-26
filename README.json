@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1381,
+            "stars": 1382,
             "topics": [
               "dungeon",
               "game",
@@ -269,7 +269,7 @@
             "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 711,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -506,7 +506,7 @@
             "open_issues": 13,
             "owner": "Real-Serious-Games",
             "repo": "C-Sharp-Promise",
-            "stars": 1239,
+            "stars": 1238,
             "topics": [
               "async-operation",
               "c-sharp",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2845,
+            "stars": 2846,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -721,7 +721,7 @@
             "open_issues": 1,
             "owner": "cmilr",
             "repo": "Unity2D-Components",
-            "stars": 820,
+            "stars": 821,
             "topics": [
               "c-sharp",
               "csharp",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7003,
+            "stars": 7007,
             "topics": [
               "2d",
               "2d-framework",
@@ -880,7 +880,7 @@
             "open_issues": 14,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4480,
+            "stars": 4479,
             "topics": [
               "awesome-list",
               "unity",
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2736,
+            "stars": 2737,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T13:41:36.239Z",
+    "last_updated": "2026-09-26T13:01:11.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
