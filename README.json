@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1251,
+            "stars": 1252,
             "topics": [
               "fps",
               "fps-game",
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1119,
+            "stars": 1120,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -534,7 +534,7 @@
             "open_issues": 29,
             "owner": "DanielEverland",
             "repo": "ScriptableObject-Architecture",
-            "stars": 1056,
+            "stars": 1057,
             "topics": [
               "architecture",
               "indiedev",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2846,
+            "stars": 2847,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -838,7 +838,7 @@
             "open_issues": 19,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7007,
+            "stars": 7010,
             "topics": [
               "2d",
               "2d-framework",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:01:11.696Z",
+    "last_updated": "2026-09-27T13:53:45.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
