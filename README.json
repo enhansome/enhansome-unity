@@ -43,7 +43,7 @@
             "open_issues": 4,
             "owner": "Hyperparticle",
             "repo": "nodulus",
-            "stars": 630,
+            "stars": 631,
             "topics": [
               "csharp",
               "game",
@@ -269,7 +269,7 @@
             "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 712,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -587,7 +587,7 @@
             "open_issues": 25,
             "owner": "proyecto26",
             "repo": "RestClient",
-            "stars": 1313,
+            "stars": 1314,
             "topics": [
               "ajax",
               "async-requests",
@@ -658,11 +658,11 @@
             "id": 43618365,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-16T10:08:48Z",
+            "last_commit": "2026-09-30T03:03:21Z",
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2849,
+            "stars": 2850,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -838,7 +838,7 @@
             "open_issues": 20,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7014,
+            "stars": 7016,
             "topics": [
               "2d",
               "2d-framework",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:49:34.007Z",
+    "last_updated": "2026-09-30T14:53:08.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
