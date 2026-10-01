@@ -296,7 +296,7 @@
             "open_issues": 89,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1311,
+            "stars": 1312,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -438,7 +438,7 @@
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "com.unity.uiwidgets",
-            "stars": 622,
+            "stars": 623,
             "topics": [
               "android",
               "app",
@@ -658,7 +658,7 @@
             "id": 43618365,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-30T03:03:21Z",
+            "last_commit": "2026-10-01T00:03:23Z",
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 20,
+            "open_issues": 22,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7016,
+            "stars": 7018,
             "topics": [
               "2d",
               "2d-framework",
@@ -877,7 +877,7 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-02-02T09:52:39Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
             "stars": 4480,
@@ -914,7 +914,7 @@
             "id": 78371780,
             "language": null,
             "license": "Unlicense",
-            "last_commit": "2026-09-01T18:56:50Z",
+            "last_commit": "2026-09-30T22:36:27Z",
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T14:53:08.795Z",
+    "last_updated": "2026-10-01T15:24:48.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
