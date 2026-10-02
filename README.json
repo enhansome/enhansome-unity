@@ -411,7 +411,7 @@
             "open_issues": 8,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1120,
+            "stars": 1121,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2850,
+            "stars": 2851,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -721,7 +721,7 @@
             "open_issues": 1,
             "owner": "cmilr",
             "repo": "Unity2D-Components",
-            "stars": 820,
+            "stars": 821,
             "topics": [
               "c-sharp",
               "csharp",
@@ -838,7 +838,7 @@
             "open_issues": 22,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7018,
+            "stars": 7021,
             "topics": [
               "2d",
               "2d-framework",
@@ -880,7 +880,7 @@
             "open_issues": 15,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4480,
+            "stars": 4481,
             "topics": [
               "awesome-list",
               "unity",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T15:24:48.832Z",
+    "last_updated": "2026-10-02T14:42:12.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
