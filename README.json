@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1382,
+            "stars": 1383,
             "topics": [
               "dungeon",
               "game",
@@ -411,7 +411,7 @@
             "open_issues": 8,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1121,
+            "stars": 1122,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:11:56.469Z",
+    "last_updated": "2026-10-03T13:20:30.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
