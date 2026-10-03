@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7021,
+            "stars": 7022,
             "topics": [
               "2d",
               "2d-framework",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:42:12.777Z",
+    "last_updated": "2026-10-03T05:11:56.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
