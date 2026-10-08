@@ -20,17 +20,17 @@
 
 ## Adventure
 
-* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,633 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
+* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,636 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
 
 ## Puzzle
 
 * [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame) ⭐ 678 | 🐛 0 | 🌐 C# | 📅 2024-11-22 - An effort to replicate a level and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.
-* [Nodulus](https://github.com/Hyperparticle/nodulus) ⭐ 631 | 🐛 4 | 🌐 C# | 📅 2023-03-30 - A puzzle game with a clever twist. Based on the mathematical theory behind plank puzzles, consists of a grid of cubes and rods which can be rotated with a swipe.
+* [Nodulus](https://github.com/Hyperparticle/nodulus) ⭐ 632 | 🐛 4 | 🌐 C# | 📅 2023-03-30 - A puzzle game with a clever twist. Based on the mathematical theory behind plank puzzles, consists of a grid of cubes and rods which can be rotated with a swipe.
 * [Match-3 game](https://github.com/dgkanatsios/MatchThreeGame) ⭐ 623 | 🐛 2 | 🌐 C# | 📅 2024-11-22 - A match-3 game in Unity (like Candy Crush and Bejeweled).
 
 ## Role
 
-* [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) ⭐ 1,385 | 🐛 4 | 🌐 C# | 📅 2021-10-09 - Darkest Dungeon port in Unity. Almost completely identical to the original.
+* [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) ⭐ 1,386 | 🐛 4 | 🌐 C# | 📅 2021-10-09 - Darkest Dungeon port in Unity. Almost completely identical to the original.
 
 ## RPG
 
@@ -50,7 +50,7 @@
 
 ## Strategy
 
-* [Starcraft Unity3D](https://github.com/coconauts/startcraft-unity3d) ⭐ 714 | 🐛 3 | 🌐 C# | 📅 2025-09-12 - A recreation of the classic Starcraft game by Blizzard, on Unity3D.
+* [Starcraft Unity3D](https://github.com/coconauts/startcraft-unity3d) ⭐ 715 | 🐛 3 | 🌐 C# | 📅 2025-09-12 - A recreation of the classic Starcraft game by Blizzard, on Unity3D.
 
 ***
 
@@ -82,8 +82,8 @@
 
 ## Editor
 
-* [Path-Creator](https://github.com/SebLague/Path-Creator) ⭐ 2,095 | 🐛 89 | 🌐 C# | 📅 2024-05-02 - An intuitive and lightweight editor for quickly creating smooth paths in the editor.
-* [Runtime Unity Editor/Debugging Tools](https://github.com/ManlyMarco/RuntimeUnityEditor) ⭐ 1,122 | 🐛 8 | 🌐 C# | 📅 2026-09-23 - In-game inspector and debugging tools for applications made with Unity3D game engine.
+* [Path-Creator](https://github.com/SebLague/Path-Creator) ⭐ 2,094 | 🐛 89 | 🌐 C# | 📅 2024-05-02 - An intuitive and lightweight editor for quickly creating smooth paths in the editor.
+* [Runtime Unity Editor/Debugging Tools](https://github.com/ManlyMarco/RuntimeUnityEditor) ⭐ 1,121 | 🐛 8 | 🌐 C# | 📅 2026-10-06 - In-game inspector and debugging tools for applications made with Unity3D game engine.
 * [UIWidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets) ⚠️ Archived - A Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
 
 ## Scripting
@@ -103,7 +103,7 @@
 
 ## Utilities
 
-* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,854 | 🐛 3 | 🌐 C# | 📅 2026-10-01 - A tool for building interactive dialogue in games!
+* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,856 | 🐛 3 | 🌐 C# | 📅 2026-10-01 - A tool for building interactive dialogue in games!
 * [ChainSafe Gaming](https://github.com/ChainSafe/web3.unity) ⭐ 944 | 🐛 31 | 🌐 C# | 📅 2025-11-04 - Unity SDK for building games that interact with blockchains.
 * [Unity2D Components](https://github.com/cmilr/Unity2D-Components) ⭐ 821 | 🐛 1 | 🌐 C# | 📅 2021-01-23 - A varied collection of Unity3D components that I've built for use in the 2D Platformer/RPG I'm currently developing.
 * [Unity Image Cropper](https://github.com/yasirkula/UnityImageCropper) ⭐ 230 | 🐛 2 | 🌐 C# | 📅 2025-12-07 - A uGUI based image cropping solution for Unity 3D.
@@ -111,7 +111,7 @@
 ## Guides
 
 * [Coding in C# in Unity for beginners](https://unity3d.com/learning-c-sharp-in-unity-for-beginners) - The very basics of coding, like variables, functions and classes, and how to use them.
-* [Design Patterns Written in Unity3D](https://github.com/QianMo/Unity-Design-Pattern) ⭐ 4,684 | 🐛 5 | 🌐 C# | 📅 2020-02-06 - All Gang of Four Design Patterns written in Unity C# with many examples.
+* [Design Patterns Written in Unity3D](https://github.com/QianMo/Unity-Design-Pattern) ⭐ 4,683 | 🐛 5 | 🌐 C# | 📅 2020-02-06 - All Gang of Four Design Patterns written in Unity C# with many examples.
 
 ## Tutorials
 
@@ -170,9 +170,9 @@
 
 ## Other Awesome Lists
 
-* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,031 | 🐛 25 | 📅 2026-04-10 - A wonderful list of Game Development resources.
-* [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,481 | 🐛 16 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
-* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,741 | 🐛 4 | 📅 2026-09-30 - A categorized collection of awesome opensource unity3d repos.
+* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,035 | 🐛 26 | 📅 2026-04-10 - A wonderful list of Game Development resources.
+* [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,478 | 🐛 16 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
+* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,741 | 🐛 1 | 📅 2026-10-06 - A categorized collection of awesome opensource unity3d repos.
 * [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 656 | 🐛 6 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 * [Awesome Unity FREE](https://github.com/netpyoung/awesome-unity-free) ⭐ 205 | 🐛 3 | 📅 2023-03-27 - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
 
@@ -210,4 +210,4 @@ Together we do more, together we are more ❤️ <img width="150px" src="https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
