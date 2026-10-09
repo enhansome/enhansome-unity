@@ -43,7 +43,7 @@
             "open_issues": 4,
             "owner": "Hyperparticle",
             "repo": "nodulus",
-            "stars": 632,
+            "stars": 631,
             "topics": [
               "csharp",
               "game",
@@ -70,7 +70,7 @@
             "open_issues": 2,
             "owner": "dgkanatsios",
             "repo": "MatchThreeGame",
-            "stars": 623,
+            "stars": 622,
             "topics": [
               "c-sharp",
               "candy-crush",
@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1386,
+            "stars": 1388,
             "topics": [
               "dungeon",
               "game",
@@ -135,7 +135,7 @@
             "open_issues": 17,
             "owner": "OpenHogwarts",
             "repo": "hogwarts",
-            "stars": 841,
+            "stars": 840,
             "topics": [
               "game",
               "harry",
@@ -169,7 +169,7 @@
             "open_issues": 0,
             "owner": "dgkanatsios",
             "repo": "InfiniteRunner3D",
-            "stars": 360,
+            "stars": 359,
             "topics": [
               "game",
               "unity"
@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "federicodangelo",
             "repo": "CubeWorld",
-            "stars": 455,
+            "stars": 453,
             "topics": [
               "c-sharp",
               "game",
@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1253,
+            "stars": 1254,
             "topics": [
               "fps",
               "fps-game",
@@ -269,7 +269,7 @@
             "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 715,
+            "stars": 713,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -408,7 +408,7 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-10-06T17:06:56Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
             "stars": 1121,
@@ -534,7 +534,7 @@
             "open_issues": 29,
             "owner": "DanielEverland",
             "repo": "ScriptableObject-Architecture",
-            "stars": 1058,
+            "stars": 1057,
             "topics": [
               "architecture",
               "indiedev",
@@ -587,7 +587,7 @@
             "open_issues": 25,
             "owner": "proyecto26",
             "repo": "RestClient",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "ajax",
               "async-requests",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2856,
+            "stars": 2855,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -721,7 +721,7 @@
             "open_issues": 1,
             "owner": "cmilr",
             "repo": "Unity2D-Components",
-            "stars": 821,
+            "stars": 820,
             "topics": [
               "c-sharp",
               "csharp",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7035,
+            "stars": 7036,
             "topics": [
               "2d",
               "2d-framework",
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2741,
+            "stars": 2740,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T15:32:26.797Z",
+    "last_updated": "2026-10-09T15:14:46.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
