@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "federicodangelo",
             "repo": "CubeWorld",
-            "stars": 453,
+            "stars": 452,
             "topics": [
               "c-sharp",
               "game",
@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1254,
+            "stars": 1255,
             "topics": [
               "fps",
               "fps-game",
@@ -390,7 +390,7 @@
             "open_issues": 89,
             "owner": "SebLague",
             "repo": "Path-Creator",
-            "stars": 2094,
+            "stars": 2095,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7036,
+            "stars": 7039,
             "topics": [
               "2d",
               "2d-framework",
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2740,
+            "stars": 2741,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -939,7 +939,7 @@
             "open_issues": 6,
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
-            "stars": 656,
+            "stars": 657,
             "topics": [
               "chsarp",
               "hacktoberfest",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T15:14:46.826Z",
+    "last_updated": "2026-10-10T14:26:22.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
