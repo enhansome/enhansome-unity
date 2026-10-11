@@ -587,7 +587,7 @@
             "open_issues": 25,
             "owner": "proyecto26",
             "repo": "RestClient",
-            "stars": 1315,
+            "stars": 1316,
             "topics": [
               "ajax",
               "async-requests",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2855,
+            "stars": 2856,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:26:22.431Z",
+    "last_updated": "2026-10-11T14:53:07.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
