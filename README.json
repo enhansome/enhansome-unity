@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dgkanatsios",
             "repo": "AngryBirdsStyleGame",
-            "stars": 678,
+            "stars": 677,
             "topics": [
               "game",
               "unity"
@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1255,
+            "stars": 1256,
             "topics": [
               "fps",
               "fps-game",
@@ -269,7 +269,7 @@
             "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 713,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -695,7 +695,7 @@
             "open_issues": 31,
             "owner": "ChainSafe",
             "repo": "web3.unity",
-            "stars": 944,
+            "stars": 945,
             "topics": [
               "blockchain",
               "cryptocurrency",
@@ -838,7 +838,7 @@
             "open_issues": 28,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7039,
+            "stars": 7040,
             "topics": [
               "2d",
               "2d-framework",
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2741,
+            "stars": 2740,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:53:07.079Z",
+    "last_updated": "2026-10-12T17:49:12.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -990,7 +990,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-22T21:22:51Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "proyecto26",
       "repo": "awesome-unity",
       "stars": 1451,
