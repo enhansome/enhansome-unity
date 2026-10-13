@@ -296,7 +296,7 @@
             "open_issues": 89,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1313,
+            "stars": 1314,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2856,
+            "stars": 2855,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -838,7 +838,7 @@
             "open_issues": 28,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7040,
+            "stars": 7043,
             "topics": [
               "2d",
               "2d-framework",
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2740,
+            "stars": 2741,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T17:49:12.506Z",
+    "last_updated": "2026-10-13T15:54:20.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
