@@ -70,7 +70,7 @@
             "open_issues": 2,
             "owner": "dgkanatsios",
             "repo": "MatchThreeGame",
-            "stars": 622,
+            "stars": 623,
             "topics": [
               "c-sharp",
               "candy-crush",
@@ -296,7 +296,7 @@
             "open_issues": 89,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1314,
+            "stars": 1315,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1122,
+            "stars": 1123,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2857,
+            "stars": 2856,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7053,
+            "stars": 7054,
             "topics": [
               "2d",
               "2d-framework",
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2743,
+            "stars": 2744,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -939,7 +939,7 @@
             "open_issues": 6,
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
-            "stars": 658,
+            "stars": 659,
             "topics": [
               "chsarp",
               "hacktoberfest",
@@ -968,7 +968,7 @@
             "open_issues": 3,
             "owner": "netpyoung",
             "repo": "awesome-unity-free",
-            "stars": 205,
+            "stars": 206,
             "topics": [
               "awesome",
               "unity3d"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T13:21:44.222Z",
+    "last_updated": "2026-10-16T13:12:12.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 9,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1451,
+      "stars": 1452,
       "topics": [
         "awesome-list",
         "awesome-lists",
