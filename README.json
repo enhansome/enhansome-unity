@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dgkanatsios",
             "repo": "AngryBirdsStyleGame",
-            "stars": 677,
+            "stars": 678,
             "topics": [
               "game",
               "unity"
@@ -70,7 +70,7 @@
             "open_issues": 2,
             "owner": "dgkanatsios",
             "repo": "MatchThreeGame",
-            "stars": 623,
+            "stars": 625,
             "topics": [
               "c-sharp",
               "candy-crush",
@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1390,
+            "stars": 1391,
             "topics": [
               "dungeon",
               "game",
@@ -135,7 +135,7 @@
             "open_issues": 17,
             "owner": "OpenHogwarts",
             "repo": "hogwarts",
-            "stars": 840,
+            "stars": 841,
             "topics": [
               "game",
               "harry",
@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1257,
+            "stars": 1258,
             "topics": [
               "fps",
               "fps-game",
@@ -269,7 +269,7 @@
             "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 714,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -390,7 +390,7 @@
             "open_issues": 89,
             "owner": "SebLague",
             "repo": "Path-Creator",
-            "stars": 2096,
+            "stars": 2097,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -407,7 +407,7 @@
             "id": 160832625,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T17:06:56Z",
+            "last_commit": "2026-10-17T20:00:18Z",
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2855,
+            "stars": 2856,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -695,7 +695,7 @@
             "open_issues": 31,
             "owner": "ChainSafe",
             "repo": "web3.unity",
-            "stars": 945,
+            "stars": 947,
             "topics": [
               "blockchain",
               "cryptocurrency",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7055,
+            "stars": 7061,
             "topics": [
               "2d",
               "2d-framework",
@@ -918,7 +918,7 @@
             "open_issues": 2,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2744,
+            "stars": 2745,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:08:59.676Z",
+    "last_updated": "2026-10-18T12:34:42.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 9,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1452,
+      "stars": 1453,
       "topics": [
         "awesome-list",
         "awesome-lists",
