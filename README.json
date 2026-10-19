@@ -390,7 +390,7 @@
             "open_issues": 89,
             "owner": "SebLague",
             "repo": "Path-Creator",
-            "stars": 2097,
+            "stars": 2098,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2856,
+            "stars": 2857,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -838,7 +838,7 @@
             "open_issues": 30,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7061,
+            "stars": 7067,
             "topics": [
               "2d",
               "2d-framework",
@@ -880,7 +880,7 @@
             "open_issues": 17,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4478,
+            "stars": 4479,
             "topics": [
               "awesome-list",
               "unity",
@@ -918,7 +918,7 @@
             "open_issues": 2,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2745,
+            "stars": 2746,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:34:42.652Z",
+    "last_updated": "2026-10-19T15:32:51.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
