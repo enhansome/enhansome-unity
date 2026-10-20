@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1391,
+            "stars": 1392,
             "topics": [
               "dungeon",
               "game",
@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "federicodangelo",
             "repo": "CubeWorld",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "c-sharp",
               "game",
@@ -753,7 +753,7 @@
             "open_issues": 2,
             "owner": "yasirkula",
             "repo": "UnityImageCropper",
-            "stars": 230,
+            "stars": 231,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -838,7 +838,7 @@
             "open_issues": 30,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7067,
+            "stars": 7070,
             "topics": [
               "2d",
               "2d-framework",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:32:51.682Z",
+    "last_updated": "2026-10-20T13:31:39.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
