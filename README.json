@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1392,
+            "stars": 1393,
             "topics": [
               "dungeon",
               "game",
@@ -635,7 +635,7 @@
             "open_issues": 18,
             "owner": "ryanw3bb",
             "repo": "unity-native-toolkit",
-            "stars": 276,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7070,
+            "stars": 7077,
             "topics": [
               "2d",
               "2d-framework",
@@ -880,7 +880,7 @@
             "open_issues": 17,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4479,
+            "stars": 4478,
             "topics": [
               "awesome-list",
               "unity",
@@ -918,7 +918,7 @@
             "open_issues": 2,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2746,
+            "stars": 2747,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:31:39.847Z",
+    "last_updated": "2026-10-21T13:43:17.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",

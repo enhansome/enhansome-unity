@@ -20,7 +20,7 @@
 
 ## Adventure
 
-* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,656 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
+* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,659 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
 
 ## Puzzle
 
@@ -30,7 +30,7 @@
 
 ## Role
 
-* [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) ⭐ 1,392 | 🐛 4 | 🌐 C# | 📅 2021-10-09 - Darkest Dungeon port in Unity. Almost completely identical to the original.
+* [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) ⭐ 1,393 | 🐛 4 | 🌐 C# | 📅 2021-10-09 - Darkest Dungeon port in Unity. Almost completely identical to the original.
 
 ## RPG
 
@@ -99,7 +99,7 @@
 
 ## Platforms
 
-* [Native Toolkit](https://github.com/ryanw3bb/unity-native-toolkit) ⭐ 276 | 🐛 18 | 🌐 Java | 📅 2026-03-24 - Easily integrate native iOS & Android functionality into Unity projects.
+* [Native Toolkit](https://github.com/ryanw3bb/unity-native-toolkit) ⭐ 275 | 🐛 18 | 🌐 Java | 📅 2026-03-24 - Easily integrate native iOS & Android functionality into Unity projects.
 
 ## Utilities
 
@@ -170,9 +170,9 @@
 
 ## Other Awesome Lists
 
-* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,070 | 🐛 30 | 📅 2026-04-10 - A wonderful list of Game Development resources.
-* [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,479 | 🐛 17 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
-* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,746 | 🐛 2 | 📅 2026-10-14 - A categorized collection of awesome opensource unity3d repos.
+* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,077 | 🐛 31 | 📅 2026-04-10 - A wonderful list of Game Development resources.
+* [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,478 | 🐛 17 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
+* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,747 | 🐛 2 | 📅 2026-10-14 - A categorized collection of awesome opensource unity3d repos.
 * [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 659 | 🐛 6 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 * [Awesome Unity FREE](https://github.com/netpyoung/awesome-unity-free) ⭐ 206 | 🐛 3 | 📅 2023-03-27 - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
 
@@ -210,4 +210,4 @@ Together we do more, together we are more ❤️ <img width="150px" src="https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
