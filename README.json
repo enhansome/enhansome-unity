@@ -135,7 +135,7 @@
             "open_issues": 17,
             "owner": "OpenHogwarts",
             "repo": "hogwarts",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "game",
               "harry",
@@ -317,7 +317,7 @@
             "open_issues": 72,
             "owner": "ValveSoftware",
             "repo": "unity-xr-plugin",
-            "stars": 334,
+            "stars": 335,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1127,
+            "stars": 1128,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2861,
+            "stars": 2862,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7105,
+            "stars": 7111,
             "topics": [
               "2d",
               "2d-framework",
@@ -915,10 +915,10 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-10-23T03:45:53Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2747,
+            "stars": 2746,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:09:17.096Z",
+    "last_updated": "2026-10-26T15:07:56.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 9,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1455,
+      "stars": 1456,
       "topics": [
         "awesome-list",
         "awesome-lists",
