@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dgkanatsios",
             "repo": "AngryBirdsStyleGame",
-            "stars": 678,
+            "stars": 679,
             "topics": [
               "game",
               "unity"
@@ -43,7 +43,7 @@
             "open_issues": 4,
             "owner": "Hyperparticle",
             "repo": "nodulus",
-            "stars": 632,
+            "stars": 633,
             "topics": [
               "csharp",
               "game",
@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1395,
+            "stars": 1396,
             "topics": [
               "dungeon",
               "game",
@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1259,
+            "stars": 1258,
             "topics": [
               "fps",
               "fps-game",
@@ -293,7 +293,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-02-14T00:02:03Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
             "stars": 1317,
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1129,
+            "stars": 1130,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -478,7 +478,7 @@
             "open_issues": 245,
             "owner": "neuecc",
             "repo": "UniRx",
-            "stars": 7321,
+            "stars": 7320,
             "topics": [
               "c-sharp",
               "linq",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2863,
+            "stars": 2864,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 34,
+            "open_issues": 36,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7122,
+            "stars": 7126,
             "topics": [
               "2d",
               "2d-framework",
@@ -880,7 +880,7 @@
             "open_issues": 17,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4479,
+            "stars": 4478,
             "topics": [
               "awesome-list",
               "unity",
@@ -914,11 +914,11 @@
             "id": 78371780,
             "language": null,
             "license": "Unlicense",
-            "last_commit": "2026-10-23T03:45:53Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-29T08:59:17Z",
+            "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2748,
+            "stars": 2749,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:03:18.014Z",
+    "last_updated": "2026-10-29T15:11:04.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
