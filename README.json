@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1396,
+            "stars": 1397,
             "topics": [
               "dungeon",
               "game",
@@ -721,7 +721,7 @@
             "open_issues": 1,
             "owner": "cmilr",
             "repo": "Unity2D-Components",
-            "stars": 820,
+            "stars": 821,
             "topics": [
               "c-sharp",
               "csharp",
@@ -838,7 +838,7 @@
             "open_issues": 37,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7128,
+            "stars": 7129,
             "topics": [
               "2d",
               "2d-framework",
@@ -914,7 +914,7 @@
             "id": 78371780,
             "language": null,
             "license": "Unlicense",
-            "last_commit": "2026-10-30T16:32:01Z",
+            "last_commit": "2026-11-01T01:51:37Z",
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:29:12.962Z",
+    "last_updated": "2026-11-01T15:01:29.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 10,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1460,
+      "stars": 1461,
       "topics": [
         "awesome-list",
         "awesome-lists",
