@@ -34,7 +34,7 @@
 
 ## RPG
 
-* [Hogwarts](https://github.com/OpenHogwarts/hogwarts) ⭐ 841 | 🐛 17 | 🌐 C# | 📅 2023-11-23 - A Hogwarts (Harry Potter) open sandbox game made in Unity.
+* [Hogwarts](https://github.com/OpenHogwarts/hogwarts) ⭐ 842 | 🐛 17 | 🌐 C# | 📅 2023-11-23 - A Hogwarts (Harry Potter) open sandbox game made in Unity.
 
 ## Runner
 
@@ -95,7 +95,7 @@
 
 ## Networking
 
-* [RestClient](https://github.com/proyecto26/RestClient) ⭐ 1,315 | 🐛 25 | 🌐 C# | 📅 2026-03-22 - 🦄 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 🎮.
+* [RestClient](https://github.com/proyecto26/RestClient) ⭐ 1,316 | 🐛 25 | 🌐 C# | 📅 2026-03-22 - 🦄 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 🎮.
 
 ## Platforms
 
@@ -103,7 +103,7 @@
 
 ## Utilities
 
-* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,870 | 🐛 3 | 🌐 C# | 📅 2026-11-02 - A tool for building interactive dialogue in games!
+* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,870 | 🐛 3 | 🌐 C# | 📅 2026-11-03 - A tool for building interactive dialogue in games!
 * [ChainSafe Gaming](https://github.com/ChainSafe/web3.unity) ⭐ 946 | 🐛 31 | 🌐 C# | 📅 2025-11-04 - Unity SDK for building games that interact with blockchains.
 * [Unity2D Components](https://github.com/cmilr/Unity2D-Components) ⭐ 821 | 🐛 1 | 🌐 C# | 📅 2021-01-23 - A varied collection of Unity3D components that I've built for use in the 2D Platformer/RPG I'm currently developing.
 * [Unity Image Cropper](https://github.com/yasirkula/UnityImageCropper) ⭐ 232 | 🐛 2 | 🌐 C# | 📅 2025-12-07 - A uGUI based image cropping solution for Unity 3D.
@@ -170,7 +170,7 @@
 
 ## Other Awesome Lists
 
-* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,135 | 🐛 39 | 📅 2026-04-10 - A wonderful list of Game Development resources.
+* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,138 | 🐛 40 | 📅 2026-04-10 - A wonderful list of Game Development resources.
 * [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,479 | 🐛 17 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
 * [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,749 | 🐛 1 | 📅 2026-11-01 - A categorized collection of awesome opensource unity3d repos.
 * [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 660 | 🐛 6 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
@@ -210,4 +210,4 @@ Together we do more, together we are more ❤️ <img width="150px" src="https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

@@ -135,7 +135,7 @@
             "open_issues": 17,
             "owner": "OpenHogwarts",
             "repo": "hogwarts",
-            "stars": 841,
+            "stars": 842,
             "topics": [
               "game",
               "harry",
@@ -438,7 +438,7 @@
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "com.unity.uiwidgets",
-            "stars": 622,
+            "stars": 623,
             "topics": [
               "android",
               "app",
@@ -587,7 +587,7 @@
             "open_issues": 25,
             "owner": "proyecto26",
             "repo": "RestClient",
-            "stars": 1315,
+            "stars": 1316,
             "topics": [
               "ajax",
               "async-requests",
@@ -658,7 +658,7 @@
             "id": 43618365,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-02T12:17:46Z",
+            "last_commit": "2026-11-03T02:12:24Z",
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7135,
+            "stars": 7138,
             "topics": [
               "2d",
               "2d-framework",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:14:09.770Z",
+    "last_updated": "2026-11-03T16:09:05.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
