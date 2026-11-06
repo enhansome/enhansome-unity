@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1262,
+            "stars": 1263,
             "topics": [
               "fps",
               "fps-game",
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1132,
+            "stars": 1133,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -438,7 +438,7 @@
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "com.unity.uiwidgets",
-            "stars": 623,
+            "stars": 622,
             "topics": [
               "android",
               "app",
@@ -478,7 +478,7 @@
             "open_issues": 245,
             "owner": "neuecc",
             "repo": "UniRx",
-            "stars": 7318,
+            "stars": 7317,
             "topics": [
               "c-sharp",
               "linq",
@@ -658,7 +658,7 @@
             "id": 43618365,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-05T11:41:39Z",
+            "last_commit": "2026-11-06T12:45:42Z",
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
@@ -838,7 +838,7 @@
             "open_issues": 43,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7147,
+            "stars": 7150,
             "topics": [
               "2d",
               "2d-framework",
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2750,
+            "stars": 2749,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:25:04.707Z",
+    "last_updated": "2026-11-06T15:52:58.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
