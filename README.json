@@ -478,7 +478,7 @@
             "open_issues": 245,
             "owner": "neuecc",
             "repo": "UniRx",
-            "stars": 7317,
+            "stars": 7316,
             "topics": [
               "c-sharp",
               "linq",
@@ -658,7 +658,7 @@
             "id": 43618365,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-07T03:37:40Z",
+            "last_commit": "2026-11-08T07:58:37Z",
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7153,
+            "stars": 7154,
             "topics": [
               "2d",
               "2d-framework",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:51:53.900Z",
+    "last_updated": "2026-11-08T15:06:14.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
