@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1398,
+            "stars": 1401,
             "topics": [
               "dungeon",
               "game",
@@ -135,7 +135,7 @@
             "open_issues": 17,
             "owner": "OpenHogwarts",
             "repo": "hogwarts",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "game",
               "harry",
@@ -478,7 +478,7 @@
             "open_issues": 245,
             "owner": "neuecc",
             "repo": "UniRx",
-            "stars": 7316,
+            "stars": 7315,
             "topics": [
               "c-sharp",
               "linq",
@@ -587,7 +587,7 @@
             "open_issues": 25,
             "owner": "proyecto26",
             "repo": "RestClient",
-            "stars": 1316,
+            "stars": 1317,
             "topics": [
               "ajax",
               "async-requests",
@@ -721,7 +721,7 @@
             "open_issues": 1,
             "owner": "cmilr",
             "repo": "Unity2D-Components",
-            "stars": 821,
+            "stars": 822,
             "topics": [
               "c-sharp",
               "csharp",
@@ -838,7 +838,7 @@
             "open_issues": 44,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7154,
+            "stars": 7159,
             "topics": [
               "2d",
               "2d-framework",
@@ -939,7 +939,7 @@
             "open_issues": 6,
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
-            "stars": 660,
+            "stars": 661,
             "topics": [
               "chsarp",
               "hacktoberfest",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T15:06:14.269Z",
+    "last_updated": "2026-11-09T18:42:24.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 10,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1462,
+      "stars": 1463,
       "topics": [
         "awesome-list",
         "awesome-lists",
