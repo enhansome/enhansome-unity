@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1265,
+            "stars": 1266,
             "topics": [
               "fps",
               "fps-game",
@@ -296,7 +296,7 @@
             "open_issues": 90,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1317,
+            "stars": 1316,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1134,
+            "stars": 1135,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -478,7 +478,7 @@
             "open_issues": 245,
             "owner": "neuecc",
             "repo": "UniRx",
-            "stars": 7315,
+            "stars": 7313,
             "topics": [
               "c-sharp",
               "linq",
@@ -587,7 +587,7 @@
             "open_issues": 25,
             "owner": "proyecto26",
             "repo": "RestClient",
-            "stars": 1317,
+            "stars": 1316,
             "topics": [
               "ajax",
               "async-requests",
@@ -721,7 +721,7 @@
             "open_issues": 1,
             "owner": "cmilr",
             "repo": "Unity2D-Components",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "c-sharp",
               "csharp",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 44,
+            "open_issues": 46,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7169,
+            "stars": 7172,
             "topics": [
               "2d",
               "2d-framework",
@@ -880,7 +880,7 @@
             "open_issues": 17,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4479,
+            "stars": 4480,
             "topics": [
               "awesome-list",
               "unity",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T16:05:45.698Z",
+    "last_updated": "2026-11-12T16:46:12.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
