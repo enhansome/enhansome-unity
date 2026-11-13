@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1266,
+            "stars": 1267,
             "topics": [
               "fps",
               "fps-game",
@@ -506,7 +506,7 @@
             "open_issues": 13,
             "owner": "Real-Serious-Games",
             "repo": "C-Sharp-Promise",
-            "stars": 1238,
+            "stars": 1239,
             "topics": [
               "async-operation",
               "c-sharp",
@@ -695,7 +695,7 @@
             "open_issues": 31,
             "owner": "ChainSafe",
             "repo": "web3.unity",
-            "stars": 945,
+            "stars": 944,
             "topics": [
               "blockchain",
               "cryptocurrency",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7172,
+            "stars": 7178,
             "topics": [
               "2d",
               "2d-framework",
@@ -918,7 +918,7 @@
             "open_issues": 2,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2751,
+            "stars": 2753,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T16:46:12.626Z",
+    "last_updated": "2026-11-13T16:14:19.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 10,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1463,
+      "stars": 1464,
       "topics": [
         "awesome-list",
         "awesome-lists",
