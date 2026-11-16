@@ -658,7 +658,7 @@
             "id": 43618365,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-11T01:18:12Z",
+            "last_commit": "2026-11-16T00:30:04Z",
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7188,
+            "stars": 7208,
             "topics": [
               "2d",
               "2d-framework",
@@ -877,7 +877,7 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-02-02T09:52:39Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
             "stars": 4483,
@@ -914,8 +914,8 @@
             "id": 78371780,
             "language": null,
             "license": "Unlicense",
-            "last_commit": "2026-11-01T01:51:37Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-15T17:00:06Z",
+            "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
             "stars": 2753,
@@ -939,7 +939,7 @@
             "open_issues": 5,
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
-            "stars": 661,
+            "stars": 662,
             "topics": [
               "chsarp",
               "hacktoberfest",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:37:08.337Z",
+    "last_updated": "2026-11-16T18:25:50.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 10,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1463,
+      "stars": 1464,
       "topics": [
         "awesome-list",
         "awesome-lists",

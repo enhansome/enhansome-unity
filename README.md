@@ -20,7 +20,7 @@
 
 ## Adventure
 
-* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,691 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
+* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,695 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - An open source reimplementation of GTA San Andreas game engine in Unity.
 
 ## Puzzle
 
@@ -103,7 +103,7 @@
 
 ## Utilities
 
-* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,877 | 🐛 3 | 🌐 C# | 📅 2026-11-11 - A tool for building interactive dialogue in games!
+* [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,877 | 🐛 3 | 🌐 C# | 📅 2026-11-16 - A tool for building interactive dialogue in games!
 * [ChainSafe Gaming](https://github.com/ChainSafe/web3.unity) ⭐ 944 | 🐛 31 | 🌐 C# | 📅 2025-11-04 - Unity SDK for building games that interact with blockchains.
 * [Unity2D Components](https://github.com/cmilr/Unity2D-Components) ⭐ 824 | 🐛 1 | 🌐 C# | 📅 2021-01-23 - A varied collection of Unity3D components that I've built for use in the 2D Platformer/RPG I'm currently developing.
 * [Unity Image Cropper](https://github.com/yasirkula/UnityImageCropper) ⭐ 232 | 🐛 2 | 🌐 C# | 📅 2025-12-07 - A uGUI based image cropping solution for Unity 3D.
@@ -170,10 +170,10 @@
 
 ## Other Awesome Lists
 
-* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,188 | 🐛 49 | 📅 2026-04-10 - A wonderful list of Game Development resources.
-* [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,483 | 🐛 17 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
-* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,753 | 🐛 2 | 📅 2026-11-01 - A categorized collection of awesome opensource unity3d repos.
-* [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 661 | 🐛 5 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+* [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,208 | 🐛 50 | 📅 2026-04-10 - A wonderful list of Game Development resources.
+* [Awesome Unity Open Source on GitHub (800+)](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,483 | 🐛 18 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub.
+* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,753 | 🐛 1 | 📅 2026-11-15 - A categorized collection of awesome opensource unity3d repos.
+* [Awesome Unity Community](https://github.com/UnityCommunity/AwesomeUnityCommunity) ⭐ 662 | 🐛 5 | 📅 2023-03-27 - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 * [Awesome Unity FREE](https://github.com/netpyoung/awesome-unity-free) ⭐ 206 | 🐛 3 | 📅 2023-03-27 - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
 
 ## Concepts
@@ -210,4 +210,4 @@ Together we do more, together we are more ❤️ <img width="150px" src="https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
