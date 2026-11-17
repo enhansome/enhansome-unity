@@ -70,7 +70,7 @@
             "open_issues": 2,
             "owner": "dgkanatsios",
             "repo": "MatchThreeGame",
-            "stars": 625,
+            "stars": 626,
             "topics": [
               "c-sharp",
               "candy-crush",
@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "federicodangelo",
             "repo": "CubeWorld",
-            "stars": 453,
+            "stars": 452,
             "topics": [
               "c-sharp",
               "game",
@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1267,
+            "stars": 1268,
             "topics": [
               "fps",
               "fps-game",
@@ -269,7 +269,7 @@
             "open_issues": 3,
             "owner": "coconauts",
             "repo": "startcraft-unity3d",
-            "stars": 717,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -296,7 +296,7 @@
             "open_issues": 90,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1316,
+            "stars": 1317,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -478,7 +478,7 @@
             "open_issues": 245,
             "owner": "neuecc",
             "repo": "UniRx",
-            "stars": 7313,
+            "stars": 7312,
             "topics": [
               "c-sharp",
               "linq",
@@ -658,7 +658,7 @@
             "id": 43618365,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-16T00:30:04Z",
+            "last_commit": "2026-11-17T04:01:30Z",
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 50,
+            "open_issues": 52,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7208,
+            "stars": 7214,
             "topics": [
               "2d",
               "2d-framework",
@@ -939,7 +939,7 @@
             "open_issues": 5,
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
-            "stars": 662,
+            "stars": 661,
             "topics": [
               "chsarp",
               "hacktoberfest",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T18:25:50.253Z",
+    "last_updated": "2026-11-17T17:35:21.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
