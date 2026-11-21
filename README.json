@@ -534,7 +534,7 @@
             "open_issues": 29,
             "owner": "DanielEverland",
             "repo": "ScriptableObject-Architecture",
-            "stars": 1057,
+            "stars": 1058,
             "topics": [
               "architecture",
               "indiedev",
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2753,
+            "stars": 2754,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:55:15.480Z",
+    "last_updated": "2026-11-21T16:05:53.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
