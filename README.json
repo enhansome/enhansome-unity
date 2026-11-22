@@ -43,7 +43,7 @@
             "open_issues": 4,
             "owner": "Hyperparticle",
             "repo": "nodulus",
-            "stars": 633,
+            "stars": 634,
             "topics": [
               "csharp",
               "game",
@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1267,
+            "stars": 1268,
             "topics": [
               "fps",
               "fps-game",
@@ -478,7 +478,7 @@
             "open_issues": 245,
             "owner": "neuecc",
             "repo": "UniRx",
-            "stars": 7312,
+            "stars": 7311,
             "topics": [
               "c-sharp",
               "linq",
@@ -918,7 +918,7 @@
             "open_issues": 1,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2754,
+            "stars": 2755,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -939,7 +939,7 @@
             "open_issues": 5,
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
-            "stars": 661,
+            "stars": 662,
             "topics": [
               "chsarp",
               "hacktoberfest",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:05:53.423Z",
+    "last_updated": "2026-11-22T16:13:03.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 10,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1465,
+      "stars": 1466,
       "topics": [
         "awesome-list",
         "awesome-lists",
