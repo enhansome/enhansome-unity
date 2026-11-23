@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1400,
+            "stars": 1401,
             "topics": [
               "dungeon",
               "game",
@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "federicodangelo",
             "repo": "CubeWorld",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "c-sharp",
               "game",
@@ -411,7 +411,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1135,
+            "stars": 1134,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -478,7 +478,7 @@
             "open_issues": 245,
             "owner": "neuecc",
             "repo": "UniRx",
-            "stars": 7311,
+            "stars": 7310,
             "topics": [
               "c-sharp",
               "linq",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2876,
+            "stars": 2877,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -838,7 +838,7 @@
             "open_issues": 52,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7218,
+            "stars": 7219,
             "topics": [
               "2d",
               "2d-framework",
@@ -880,7 +880,7 @@
             "open_issues": 18,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4486,
+            "stars": 4487,
             "topics": [
               "awesome-list",
               "unity",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:13:03.439Z",
+    "last_updated": "2026-11-23T20:06:06.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 10,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1466,
+      "stars": 1465,
       "topics": [
         "awesome-list",
         "awesome-lists",
