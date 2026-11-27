@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "Reinisch",
             "repo": "Darkest-Dungeon-Unity",
-            "stars": 1402,
+            "stars": 1403,
             "topics": [
               "dungeon",
               "game",
@@ -658,11 +658,11 @@
             "id": 43618365,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-26T00:51:23Z",
+            "last_commit": "2026-11-27T04:42:16Z",
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2882,
+            "stars": 2884,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -838,7 +838,7 @@
             "open_issues": 52,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7224,
+            "stars": 7226,
             "topics": [
               "2d",
               "2d-framework",
@@ -915,10 +915,10 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-11-26T04:22:03Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2755,
+            "stars": 2756,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:22:24.514Z",
+    "last_updated": "2026-11-27T18:08:08.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
