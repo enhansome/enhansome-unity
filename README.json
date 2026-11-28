@@ -231,7 +231,7 @@
             "open_issues": 18,
             "owner": "Armour",
             "repo": "Multiplayer-FPS",
-            "stars": 1269,
+            "stars": 1270,
             "topics": [
               "fps",
               "fps-game",
@@ -662,7 +662,7 @@
             "open_issues": 3,
             "owner": "YarnSpinnerTool",
             "repo": "YarnSpinner",
-            "stars": 2884,
+            "stars": 2886,
             "topics": [
               "dialogue",
               "dialogue-manager",
@@ -835,10 +835,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-10T19:20:30Z",
-            "open_issues": 52,
+            "open_issues": 51,
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 7226,
+            "stars": 7227,
             "topics": [
               "2d",
               "2d-framework",
@@ -915,10 +915,10 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-11-26T04:22:03Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "insthync",
             "repo": "awesome-unity3d",
-            "stars": 2756,
+            "stars": 2755,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.773Z"
@@ -939,7 +939,7 @@
             "open_issues": 5,
             "owner": "UnityCommunity",
             "repo": "AwesomeUnityCommunity",
-            "stars": 663,
+            "stars": 662,
             "topics": [
               "chsarp",
               "hacktoberfest",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T18:08:08.437Z",
+    "last_updated": "2026-11-28T16:48:52.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unity games! 🎮",
@@ -993,7 +993,7 @@
       "open_issues": 10,
       "owner": "proyecto26",
       "repo": "awesome-unity",
-      "stars": 1468,
+      "stars": 1467,
       "topics": [
         "awesome-list",
         "awesome-lists",
